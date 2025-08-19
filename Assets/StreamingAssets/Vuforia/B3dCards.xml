@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="cartao-jesus-frente" size="1.000000 1.797500" />
+    <ImageTarget name="VersoRevista" size="1.000000 0.701754" />
+    <ImageTarget name="CartaoGolias" size="1.000000 1.065000" />
+    <ImageTarget name="CardDavi" size="1.000000 1.065000" />
+    <ImageTarget name="CardDaviMosaico" size="1.000000 1.155000" />
+    <ImageTarget name="CartaoUrso" size="1.000000 1.037500" />
+    <ImageTarget name="CartaoArqueiro" size="1.000000 1.107500" />
+    <ImageTarget name="CartaoCivil" size="1.000000 1.125000" />
+    <ImageTarget name="CartaoGuerreira" size="1.000000 1.057500" />
+    <ImageTarget name="CartaoGuerreiro" size="1.000000 1.105000" />
+    <ImageTarget name="CardLanceiro" size="1.000000 1.042500" />
+    <ImageTarget name="CartaoEscudeiro" size="1.000000 0.990000" />
+    <ImageTarget name="card-davi-Antigo" size="1.000000 0.757500" />
+    <ImageTarget name="CardAssassino" size="1.000000 1.092500" />
+  </Tracking>
+</QCARConfig>

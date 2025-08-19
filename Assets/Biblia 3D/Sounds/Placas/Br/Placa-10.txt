@@ -1,0 +1,5 @@
+﻿1
+00:00:00,001 --> 00:00:03,968
+Chegou a hora do combate,
+derrote o Golias e todo o seu exercito
+

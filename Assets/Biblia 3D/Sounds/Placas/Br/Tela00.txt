@@ -1,0 +1,5 @@
+﻿1
+00:00:00,001 --> 00:00:02,849
+Aponte a câmera para a
+imagem e aguarde o carregamento
+

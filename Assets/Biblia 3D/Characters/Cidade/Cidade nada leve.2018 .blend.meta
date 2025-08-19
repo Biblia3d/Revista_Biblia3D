@@ -1,0 +1,596 @@
+fileFormatVersion: 2
+guid: 90df269d015e6ab48885eb682348f990
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Circle
+    100004: Cube
+    100006: Muralha_ao_redor_da_cidade2_Mesh_polySurface17_002
+    100008: Plane_001
+    100010: Plane_014
+    100012: Plane_033
+    100014: Plane_042
+    100016: Plane_043
+    100018: Plane_054
+    400000: //RootNode
+    400002: Circle
+    400004: Cube
+    400006: Muralha_ao_redor_da_cidade2_Mesh_polySurface17_002
+    400008: Plane_001
+    400010: Plane_014
+    400012: Plane_033
+    400014: Plane_042
+    400016: Plane_043
+    400018: Plane_054
+    2300000: Circle
+    2300002: Cube
+    2300004: Muralha_ao_redor_da_cidade2_Mesh_polySurface17_002
+    2300006: Plane_001
+    2300008: Plane_014
+    2300010: Plane_033
+    2300012: Plane_042
+    2300014: Plane_043
+    2300016: Plane_054
+    3300000: Circle
+    3300002: Cube
+    3300004: Muralha_ao_redor_da_cidade2_Mesh_polySurface17_002
+    3300006: Plane_001
+    3300008: Plane_014
+    3300010: Plane_033
+    3300012: Plane_042
+    3300014: Plane_043
+    3300016: Plane_054
+    4300000: Plane_054
+    4300002: Circle
+    4300004: Plane_001
+    4300006: Plane_014
+    4300008: Plane_033
+    4300010: Plane_042
+    4300012: Plane_043
+    4300014: Muralha_ao_redor_da_cidade2_Mesh_polySurface17_002
+    4300016: Cube
+    7400000: Default Take
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_071
+    second: {fileID: 2100000, guid: fed6e386265833e46a11d24a0d93f9e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_071__best-stone-wall-tile-and-swtexture-free-architectural-textu_005
+    second: {fileID: 2100000, guid: 1247ee5e52385aa45a92ab157556f5ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_071__best-stone-wall-tile-and-swtexture-free-architectural-textu_006
+    second: {fileID: 2100000, guid: 1247ee5e52385aa45a92ab157556f5ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_071__best-stone-wall-tile-and-swtexture-free-architectural-textu_007
+    second: {fileID: 2100000, guid: 243c40a11d4ee064e8a8d2d98dca6b6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_072__Janela_jpg_013
+    second: {fileID: 2100000, guid: 1247ee5e52385aa45a92ab157556f5ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_073
+    second: {fileID: 2100000, guid: fed6e386265833e46a11d24a0d93f9e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_074
+    second: {fileID: 2100000, guid: fed6e386265833e46a11d24a0d93f9e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_074__355_jpg_002
+    second: {fileID: 2100000, guid: fb1d5a9c0de005e4591bbfca77533e89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_075
+    second: {fileID: 2100000, guid: fed6e386265833e46a11d24a0d93f9e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_075__concrete_clean_0003_02_preview_jpg_012
+    second: {fileID: 2100000, guid: caa9890f7b81da9489deb2cd91a9eeec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_145
+    second: {fileID: 2100000, guid: fb1d5a9c0de005e4591bbfca77533e89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_145__stone-wall-texture__c_pia__jpg
+    second: {fileID: 2100000, guid: 304d7db19a4442e48bdfbd4c39c430b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_145__stone-wall-texture__c_pia__jpg_001
+    second: {fileID: 2100000, guid: 304d7db19a4442e48bdfbd4c39c430b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_146__Tileable_stone_wall_texture22_jpg_001
+    second: {fileID: 2100000, guid: 541d4b1ff1a2c4d4d9b46f8d9621414d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_147__Janela_jpg_007
+    second: {fileID: 2100000, guid: 541d4b1ff1a2c4d4d9b46f8d9621414d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_148
+    second: {fileID: 2100000, guid: fb1d5a9c0de005e4591bbfca77533e89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_148__concrete_clean_0003_02_preview_jpg_005
+    second: {fileID: 2100000, guid: 243c40a11d4ee064e8a8d2d98dca6b6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_149__medieval_door_texture_01_by_goodtextures_jpg_001
+    second: {fileID: 2100000, guid: 304d7db19a4442e48bdfbd4c39c430b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_158
+    second: {fileID: 2100000, guid: fb1d5a9c0de005e4591bbfca77533e89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_158__concrete_clean_0003_02_preview_jpg
+    second: {fileID: 2100000, guid: 304d7db19a4442e48bdfbd4c39c430b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_159__Janela_jpg
+    second: {fileID: 2100000, guid: 243c40a11d4ee064e8a8d2d98dca6b6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_160__seamless_floor_slab_texture_by_hhh316-d4iajo7_jpg
+    second: {fileID: 2100000, guid: 013708e6ba88c434da7ed0a31583f808, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_175
+    second: {fileID: 2100000, guid: fed6e386265833e46a11d24a0d93f9e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_175__best-stone-wall-tile-and-swtexture-free-architectural-textu_010
+    second: {fileID: 2100000, guid: 1247ee5e52385aa45a92ab157556f5ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_175__best-stone-wall-tile-and-swtexture-free-architectural-textu_011
+    second: {fileID: 2100000, guid: 1247ee5e52385aa45a92ab157556f5ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_175__best-stone-wall-tile-and-swtexture-free-architectural-textu_012
+    second: {fileID: 2100000, guid: 243c40a11d4ee064e8a8d2d98dca6b6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_176__Janela_jpg_035
+    second: {fileID: 2100000, guid: 1247ee5e52385aa45a92ab157556f5ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_177
+    second: {fileID: 2100000, guid: fed6e386265833e46a11d24a0d93f9e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_178
+    second: {fileID: 2100000, guid: fed6e386265833e46a11d24a0d93f9e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_178__355_jpg_001
+    second: {fileID: 2100000, guid: fb1d5a9c0de005e4591bbfca77533e89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_179
+    second: {fileID: 2100000, guid: fed6e386265833e46a11d24a0d93f9e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_179__concrete_clean_0003_02_preview_jpg_035
+    second: {fileID: 2100000, guid: 3fc1a1c42a3ee264f809dfc8984aca3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_226
+    second: {fileID: 2100000, guid: fb1d5a9c0de005e4591bbfca77533e89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_226__best-stone-wall-tile-and-swtexture-free-architectural-textu_016
+    second: {fileID: 2100000, guid: 1247ee5e52385aa45a92ab157556f5ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_226__best-stone-wall-tile-and-swtexture-free-architectural-textu_017
+    second: {fileID: 2100000, guid: 243c40a11d4ee064e8a8d2d98dca6b6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_227
+    second: {fileID: 2100000, guid: fb1d5a9c0de005e4591bbfca77533e89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_228
+    second: {fileID: 2100000, guid: fb1d5a9c0de005e4591bbfca77533e89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_228__Janela_jpg_047
+    second: {fileID: 2100000, guid: 1247ee5e52385aa45a92ab157556f5ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_229
+    second: {fileID: 2100000, guid: fb1d5a9c0de005e4591bbfca77533e89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_229__concrete_clean_0003_02_preview_jpg_046
+    second: {fileID: 2100000, guid: 381401870b7107d45bce6f721a7a8b66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_230
+    second: {fileID: 2100000, guid: fb1d5a9c0de005e4591bbfca77533e89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_230__stone_wall_by_agf81-d51huvo_jpg_003
+    second: {fileID: 2100000, guid: d58d1de101b658e47b56b3abeebc6d1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_232
+    second: {fileID: 2100000, guid: fb1d5a9c0de005e4591bbfca77533e89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_232__stone_wall_by_agf81-d51huvo_jpg_045
+    second: {fileID: 2100000, guid: 381401870b7107d45bce6f721a7a8b66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_232__stone_wall_by_agf81-d51huvo_jpg_046
+    second: {fileID: 2100000, guid: 381401870b7107d45bce6f721a7a8b66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_232__stone_wall_by_agf81-d51huvo_jpg_047
+    second: {fileID: 2100000, guid: a8b335ebf8ec8da4aa925e6905342f2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_233
+    second: {fileID: 2100000, guid: fb1d5a9c0de005e4591bbfca77533e89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_233__Janela_jpg_049
+    second: {fileID: 2100000, guid: 1247ee5e52385aa45a92ab157556f5ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_233__stone_wall_by_agf81-d51huvo_jpg_045
+    second: {fileID: 2100000, guid: 381401870b7107d45bce6f721a7a8b66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_234
+    second: {fileID: 2100000, guid: fb1d5a9c0de005e4591bbfca77533e89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_234__concrete_clean_0003_02_preview_jpg_047
+    second: {fileID: 2100000, guid: 381401870b7107d45bce6f721a7a8b66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_235__Janela_jpg_049
+    second: {fileID: 2100000, guid: 1247ee5e52385aa45a92ab157556f5ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_236
+    second: {fileID: 2100000, guid: fb1d5a9c0de005e4591bbfca77533e89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_236__best-stone-wall-tile-and-swtexture-free-architectural-textu_018
+    second: {fileID: 2100000, guid: 243c40a11d4ee064e8a8d2d98dca6b6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_236__stone_wall_by_agf81-d51huvo_jpg_045
+    second: {fileID: 2100000, guid: 381401870b7107d45bce6f721a7a8b66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_270
+    second: {fileID: 2100000, guid: e01e068708d448a45b2e3337d9cd696e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_270__seamless-tileable-texture-rustic-stone-wall-18031944_jpg
+    second: {fileID: 2100000, guid: b980b5180fa340143bc2b47f34adec6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_270__seamless_floor_slab_texture_by_hhh316-d4iajo7_jpg
+    second: {fileID: 2100000, guid: eba0e010cc5dac948bdb0338a14340fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_372
+    second: {fileID: 2100000, guid: fb1d5a9c0de005e4591bbfca77533e89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_372__concrete_clean_0003_02_preview_jpg_057
+    second: {fileID: 2100000, guid: 243c40a11d4ee064e8a8d2d98dca6b6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_372__stone-wall-texture__c_pia__jpg_003
+    second: {fileID: 2100000, guid: 304d7db19a4442e48bdfbd4c39c430b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_373__Tileable_stone_wall_texture22_jpg_002
+    second: {fileID: 2100000, guid: 541d4b1ff1a2c4d4d9b46f8d9621414d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_375
+    second: {fileID: 2100000, guid: fb1d5a9c0de005e4591bbfca77533e89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_375__concrete_clean_0003_02_preview_jpg
+    second: {fileID: 2100000, guid: 243c40a11d4ee064e8a8d2d98dca6b6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_375__concrete_clean_0003_02_preview_jpg_057
+    second: {fileID: 2100000, guid: 243c40a11d4ee064e8a8d2d98dca6b6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_375__stone-wall-texture__c_pia__jpg_003
+    second: {fileID: 2100000, guid: 304d7db19a4442e48bdfbd4c39c430b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_376
+    second: {fileID: 2100000, guid: fb1d5a9c0de005e4591bbfca77533e89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_384__stone-wall-texture__c_pia__jpg_005
+    second: {fileID: 2100000, guid: 3172cf2ec498a154a86529c39bed2e2a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_385__Tileable_stone_wall_texture22_jpg_002
+    second: {fileID: 2100000, guid: 541d4b1ff1a2c4d4d9b46f8d9621414d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_385__Tileable_stone_wall_texture22_jpg_004
+    second: {fileID: 2100000, guid: 243c40a11d4ee064e8a8d2d98dca6b6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_387
+    second: {fileID: 2100000, guid: fb1d5a9c0de005e4591bbfca77533e89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_387__concrete_clean_0003_02_preview_jpg_059
+    second: {fileID: 2100000, guid: 2f6784daa1f97b24fa6117215d1181db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_416
+    second: {fileID: 2100000, guid: 243c40a11d4ee064e8a8d2d98dca6b6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_416__stone-wall-texture__c_pia__jpg
+    second: {fileID: 2100000, guid: 765fa24afbd7363498fb7d898f05eb70, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_417__concrete_clean_0003_02_preview_jpg
+    second: {fileID: 2100000, guid: 304d7db19a4442e48bdfbd4c39c430b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_453
+    second: {fileID: 2100000, guid: cf256613ae9919847aae947c6be889d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_454__stone-wall-texture__c_pia__jpg_004
+    second: {fileID: 2100000, guid: 880164c8765dc1e4e8aaa8064a55bb84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_455__Tileable_stone_wall_texture22_jpg_003
+    second: {fileID: 2100000, guid: 243c40a11d4ee064e8a8d2d98dca6b6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_456
+    second: {fileID: 2100000, guid: cf256613ae9919847aae947c6be889d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_456__concrete_clean_0003_02_preview_jpg
+    second: {fileID: 2100000, guid: 243c40a11d4ee064e8a8d2d98dca6b6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_456__concrete_clean_0003_02_preview_jpg_058
+    second: {fileID: 2100000, guid: d1e2a4ce3e488ac4080d2e6fa1d8f49f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_457__seamless-stone-wall-texture-36hc4quan_jpg
+    second: {fileID: 2100000, guid: b1249e1c692f8a640975183250734df1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_457__seamless-stone-wall-texture-36hc4quan_jpg_008
+    second: {fileID: 2100000, guid: 304d7db19a4442e48bdfbd4c39c430b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_458__hrt_door_6_jpg_023
+    second: {fileID: 2100000, guid: b1249e1c692f8a640975183250734df1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_459__Janela_jpg_059
+    second: {fileID: 2100000, guid: 541d4b1ff1a2c4d4d9b46f8d9621414d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_460
+    second: {fileID: 2100000, guid: cf256613ae9919847aae947c6be889d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_460__Game_ground_jpg_001
+    second: {fileID: 2100000, guid: fb1d5a9c0de005e4591bbfca77533e89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_460__concrete_clean_0003_02_preview_jpg
+    second: {fileID: 2100000, guid: 243c40a11d4ee064e8a8d2d98dca6b6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__stone-wall-texture__c_pia__jpg
+    second: {fileID: 2100000, guid: 3da113aee7685eb4f9817221634ee342, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: initialShadingGroup_010
+    second: {fileID: 2100000, guid: fb1d5a9c0de005e4591bbfca77533e89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: unnamed
+    second: {fileID: 2100000, guid: fb1d5a9c0de005e4591bbfca77533e89, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 1
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

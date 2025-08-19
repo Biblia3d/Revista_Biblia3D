@@ -1,0 +1,8 @@
+﻿1
+00:00:00,023 --> 00:00:03,436
+Please let the camera see the
+
+2
+00:00:03,460 --> 00:00:05,460
+whole image and tap to focus
+

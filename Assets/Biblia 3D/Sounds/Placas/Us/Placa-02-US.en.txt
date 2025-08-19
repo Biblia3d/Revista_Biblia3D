@@ -1,0 +1,10 @@
+﻿1
+00:00:00,001 --> 00:00:02,500
+Davi learned to
+play the harp while
+
+2
+00:00:02,525 --> 00:00:04,880
+working and was a
+very good musician
+

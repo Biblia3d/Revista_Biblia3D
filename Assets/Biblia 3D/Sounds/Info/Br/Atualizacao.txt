@@ -1,0 +1,5 @@
+﻿1
+00:00:00,023 --> 00:00:02,880
+Aguarde a atuaização das
+novas batalhas do rei Davi
+

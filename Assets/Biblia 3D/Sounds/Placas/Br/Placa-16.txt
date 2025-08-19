@@ -1,0 +1,4 @@
+﻿1
+00:00:00,007 --> 00:00:03,039
+Davi foi traído pelos habitantes de Queila
+

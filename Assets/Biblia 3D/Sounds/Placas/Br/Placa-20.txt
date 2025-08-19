@@ -1,0 +1,5 @@
+﻿1
+00:00:00,007 --> 00:00:03,912
+Davi organizou um exercito
+para conquistar a fortaleza de Sião
+

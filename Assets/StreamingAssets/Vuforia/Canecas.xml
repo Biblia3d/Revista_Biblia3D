@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Caneca5" size="1.000000 1.416431" />
+    <ImageTarget name="Caneca4" size="1.000000 1.066098" />
+    <ImageTarget name="caneca3" size="1.000000 1.416431" />
+    <ImageTarget name="caneca2" size="1.000000 1.416431" />
+    <ImageTarget name="Caneca" size="1.000000 1.416431" />
+  </Tracking>
+</QCARConfig>

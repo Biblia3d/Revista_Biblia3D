@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a3d31697ccfa454285661622d1e2a17, type: 3}
+  m_Name: CardsSceneChangeData
+  m_EditorClassIdentifier: 
+  sceneName: Scene 0 Cards
+  sceneReturn: Scene
+  backgroundLoading: {fileID: 21300000, guid: f09e02d3fa696934bb281ccb5725ebd5, type: 3}
+  backgroundColor: {r: 1, g: 1, b: 1, a: 1}
+  foregroundLoadingRight: 0
+  foregroundLoading: {fileID: 0}
+  smallForegroundLoading: {fileID: 0}
+  localizedPageText: {fileID: 11400000, guid: a5e577c03b1b8ac48972900aea7b9015, type: 2}
+  localizedText: {fileID: 11400000, guid: ea733bbbdf81a654b80d4ea9fb71bbfc, type: 2}
+  centerLocalizedText: {fileID: 0}
+  localizedAudioClip: {fileID: 0}
+  subtitleScriptableObject: {fileID: 11400000, guid: 368c00cb88077044f95d546998262fbd,
+    type: 2}
+  loadingMusic: {fileID: 0}
+  davi3D: 0
+  hand: 0
+  loadSceneAsyncAdditive: 0
+  showSubtitle: 1

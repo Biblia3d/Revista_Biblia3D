@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -107981364, guid: 7f448572ea9eb4f94a29da7a37eed74a, type: 3}
+  m_Name: UDP Settings
+  m_EditorClassIdentifier: 
+  UnityProjectID: 6af15b70-f2f8-4c20-b34a-97eefa5ee40d
+  UnityClientID: 2p7Jdcy_r_8BgMB6Qq0WzA
+  UnityClientKey: n8xlrT__wKCnJyoC0_sdqcSg3tJv10b11HSVy9xbu8M
+  UnityClientRSAPublicKey: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAku+O+4lPFxiY83iybThAvsqnLqEpwR6WQXxSuCNxOm8wW8JUT1nTm6zQplWYdG7Je8jowTQ+CRdYDjwRpVFIHkuHR1APlHjmitGKtsNfe6FTmmjWV9JPq/qmRZQg31BohxjAlcdebrFwZ3KXEaJc4oacgDcmVNrgA2IRbh3Z7Ze2pmZJUtNmK/lgxBJT78UeqvdGBM4eO/ozbMDsu6GYfjZlWq9AStksQ4v8pIazLBh8hd35q9Tyv6nVLddiQvoacL1C5KKSOuRunWF0Ij2lPjqn8q2nABkVEUrHJzawQIz2BBjpaowUcc7Rqkvmq6ci9Rqop+uWr/pTjGkF0+dQewIDAQAB
+  AppName: Bible3D - Magazine, Cards and Games
+  AppSlug: 4403d16c-e561-4788-a702-64df212f5267
+  AppItemId: 5feb39c067872c001f21d302
+  Permission: 

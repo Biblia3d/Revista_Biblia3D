@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Biblia 3D/Scenes/Principal/Scene.unity
+    guid: a990cebe4459cca4dbb0fad45b01c9c0
+  - enabled: 1
+    path: Assets/Biblia 3D/Scenes/Revista/Scene 2.unity
+    guid: e1cc7d6ed79880b4d85c48e8b6fba200
+  - enabled: 1
+    path: Assets/Biblia 3D/Scenes/Revista/Scene 3.unity
+    guid: af02692f8ddf1434c8ecf6bfecb01805
+  - enabled: 1
+    path: Assets/Biblia 3D/Scenes/Revista/Scene 4.unity
+    guid: 2cce3400fe48d1548b433beca461650d
+  - enabled: 1
+    path: Assets/Biblia 3D/Scenes/Revista/Scene 5.unity
+    guid: d3107d53f3f34554db53289c078698a4
+  - enabled: 1
+    path: Assets/Biblia 3D/Scenes/Revista/Scene 6.unity
+    guid: 6a15c5746cce1ef4586931f4563cbdce
+  - enabled: 1
+    path: Assets/Biblia 3D/Scenes/Revista/Scene 7.unity
+    guid: 94c98e0b6e9c31b43a8b5399cae83584
+  - enabled: 1
+    path: Assets/Biblia 3D/Scenes/Cards/CardDG.unity
+    guid: 79f5df4c8e544d34b9d67fcd49d711e2
+  - enabled: 1
+    path: Assets/Biblia 3D/Scenes/Cards/Card Jesus.unity
+    guid: 94b083f1f45ee064c826b7b9b98d7431
+  - enabled: 1
+    path: Assets/Biblia 3D/Scenes/Revista/Scene 9.unity
+    guid: 986ed47cd46e0524787ae23be6ff4201
+  - enabled: 1
+    path: Assets/Biblia 3D/Scenes/Revista/Scene 10.unity
+    guid: 23802abdc3d7224458488db21e9c7169
+  - enabled: 1
+    path: Assets/Biblia 3D/Scenes/Revista/Scene 11.unity
+    guid: 5ef9ad0cc397ecf43a3836655d3824fb
+  - enabled: 1
+    path: Assets/Biblia 3D/Scenes/Revista/Scene 12.unity
+    guid: b338319db1ad92349948f0b1fea0c945
+  - enabled: 1
+    path: Assets/Biblia 3D/Scenes/Revista/Scene 13.unity
+    guid: f9a582fa4e3e975479416b1c69bb0c10
+  - enabled: 1
+    path: Assets/Biblia 3D/Scenes/Cards/Card Arqueiro.unity
+    guid: 55292178690d4a14ca39d199535fbcd9
+  - enabled: 1
+    path: Assets/Biblia 3D/Scenes/Revista/Capa.unity
+    guid: 068088b777c7a0f46a12dd85e3ddb37e
+  - enabled: 1
+    path: Assets/Biblia 3D/Scenes/Cards/Scene 0 Cards.unity
+    guid: c9ae63f3ef0c4cd4db4c1e953406de73
+  - enabled: 1
+    path: Assets/Biblia 3D/Scenes/Revista/Scene 8.unity
+    guid: e2f7b55e5429561499772e6824745e92
+  - enabled: 1
+    path: Assets/Biblia 3D/Scenes/Revista/Stats0.unity
+    guid: cee8d6fb1081b9e4195e9caf28d9715e
+  - enabled: 1
+    path: Assets/Biblia 3D/Scenes/Revista/Stats1.unity
+    guid: 84e54511bca3f09479ddaeb310a2777a
+  - enabled: 1
+    path: Assets/Biblia 3D/Scenes/Revista/Video.unity
+    guid: c077fcdc486133a408090ad4c60ca44c
+  - enabled: 1
+    path: Assets/Biblia 3D/Scenes/Revista/Tutorial.unity
+    guid: 3d45d8f1ff4b27d428d7d17d414c8202
+  - enabled: 1
+    path: Assets/Biblia 3D/Scenes/Common/ScrollMenu.unity
+    guid: 6d93c25ffae9125428db0dcc03b54854
+  - enabled: 1
+    path: Assets/Biblia 3D/Scenes/Revista/VideoTutorial.unity
+    guid: 28ef9aeffada2644583a87f342bef7e8
+  - enabled: 1
+    path: Assets/Biblia 3D/Scenes/Principal/Jogos.unity
+    guid: 3ac35bcf069841843b2064641ad04dd1
+  - enabled: 1
+    path: Assets/Biblia 3D/Scenes/Revista/Verso.unity
+    guid: ad7ad677084b3a04c81b7db0f7de0bcd
+  - enabled: 1
+    path: Assets/Biblia 3D/Scenes/Principal/Caneca.unity
+    guid: 2d595dbb9f6375446a1f6012a483d007
+  - enabled: 1
+    path: Assets/Biblia 3D/Scenes/Scene 0 Caneca.unity
+    guid: 5cff5c9a36c39864c861e6acc9142fa1
+  - enabled: 1
+    path: Assets/Biblia 3D/Scenes/Common/Menu.unity
+    guid: 6e2690361c2f93b44956644c4a49cc8e
+  - enabled: 1
+    path: Assets/Biblia 3D/Scenes/Principal/Revista.unity
+    guid: 687626e6129dbdf4394d30c9ed71cb5f
+  - enabled: 1
+    path: Assets/Biblia 3D/Scenes/Common/Loading.unity
+    guid: 097a6b8a94ce3214aa2a45a565eddbaa
+  - enabled: 1
+    path: Assets/Biblia 3D/Scenes/Common/Checklist.unity
+    guid: ca7c758076f978d458dfab0d2e61b3f8
+  - enabled: 1
+    path: Assets/Biblia 3D/Scenes/Common/Lesson.unity
+    guid: efdb08782eff7c547a6a2d677325bd40
+  - enabled: 1
+    path: Assets/Biblia 3D/Scenes/Common/Status.unity
+    guid: 7718554d5ce512a408dc969e2a39cd03
+  - enabled: 1
+    path: Assets/Biblia 3D/Scenes/Common/Subtitle.unity
+    guid: 39399baf35d5e3446b011799f89db867
+  - enabled: 0
+    path: Assets/Biblia 3D/Scenes/Revista/Moeda.unity
+    guid: 6203b9aeb24fca44c84b40a97603f090
+  - enabled: 1
+    path: Assets/Biblia 3D/Scenes/Common/Shop.unity
+    guid: dda6e93389c3f3346a6abeb25a13ddd9
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 199a13cfe14eed54eb8d9d7331899d72,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 650da6b3cdcecdb4ca21a7d5ea98ea8f,
+      type: 2}

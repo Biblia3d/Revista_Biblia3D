@@ -1,0 +1,8 @@
+﻿1
+00:00:00,015 --> 00:00:00,992
+Please move the camera closer
+
+2
+00:00:01,017 --> 00:00:02,431
+or farther until charging
+

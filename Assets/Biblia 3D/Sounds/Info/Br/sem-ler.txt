@@ -1,0 +1,5 @@
+﻿1
+00:00:00,007 --> 00:00:04,444
+E a imagem pode esta com pouca luz
+ou tem um brilho atrapalhando a leitura
+

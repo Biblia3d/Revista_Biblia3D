@@ -1,0 +1,9 @@
+﻿1
+00:00:00,001 --> 00:00:02,500
+Davi aprendeu a tocar
+harpa enquanto trabalhava
+
+2
+00:00:02,525 --> 00:00:04,880
+e era muito bom músico
+

@@ -1,0 +1,202 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5475103638843623482
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 92478c8ef71313e43a031c4d7521cbe8,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 92478c8ef71313e43a031c4d7521cbe8,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.07055013
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 92478c8ef71313e43a031c4d7521cbe8,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.07055013
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 92478c8ef71313e43a031c4d7521cbe8,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.07055013
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 92478c8ef71313e43a031c4d7521cbe8,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.12371
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 92478c8ef71313e43a031c4d7521cbe8,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.118
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 92478c8ef71313e43a031c4d7521cbe8,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.88195
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 92478c8ef71313e43a031c4d7521cbe8,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 92478c8ef71313e43a031c4d7521cbe8,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 92478c8ef71313e43a031c4d7521cbe8,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 92478c8ef71313e43a031c4d7521cbe8,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 92478c8ef71313e43a031c4d7521cbe8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 92478c8ef71313e43a031c4d7521cbe8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 92478c8ef71313e43a031c4d7521cbe8,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 22122544776118660, guid: 92478c8ef71313e43a031c4d7521cbe8,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 5b6d88e6e3ea4174bbe81c623e142522, type: 2}
+    - target: {fileID: 919132149155446097, guid: 92478c8ef71313e43a031c4d7521cbe8,
+        type: 3}
+      propertyPath: m_Name
+      value: PokeballOK
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 92478c8ef71313e43a031c4d7521cbe8,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1508012220378569901, guid: 92478c8ef71313e43a031c4d7521cbe8,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 1247ee5e52385aa45a92ab157556f5ef, type: 2}
+    - target: {fileID: 5135857182606116207, guid: 92478c8ef71313e43a031c4d7521cbe8,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4dafae64b178e7e4e927c1117149993d, type: 2}
+    - target: {fileID: 8367078257919203406, guid: 92478c8ef71313e43a031c4d7521cbe8,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7b64826bc8d5814469d6f868011a9414, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 92478c8ef71313e43a031c4d7521cbe8, type: 3}
+--- !u!1 &5132432393389749611 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 92478c8ef71313e43a031c4d7521cbe8,
+    type: 3}
+  m_PrefabInstance: {fileID: 5475103638843623482}
+  m_PrefabAsset: {fileID: 0}
+--- !u!54 &1946109081
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5132432393389749611}
+  serializedVersion: 2
+  m_Mass: 500
+  m_Drag: 1
+  m_AngularDrag: 0.05
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!135 &1946109080
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5132432393389749611}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 2
+  m_Radius: 0.86
+  m_Center: {x: 0.09, y: -0.03, z: -1.53}
+--- !u!114 &1946109082
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5132432393389749611}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b884c9012871c274f91f1cd2e801ccb5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pokeball: {fileID: 5132432393389749611}
+  throwForce: 300
+  arCamera: {fileID: 0}
+  isDragging: 0
+  initialTouchPosition: {x: 0, y: 0}
+  pokeballStartPosition: {x: 0, y: 0, z: 0}
+--- !u!114 &1946109083
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5132432393389749611}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fa9298b46906334c95795f1808d5bab, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pokeball: {fileID: 5132432393389749611}
+  throwForce: 300
+  arCamera: {fileID: 0}
+  isDragging: 0
+  initialMousePosition: {x: 0, y: 0, z: 0}
+  pokeballStartPosition: {x: 0, y: 0, z: 0}
+  time: 0
+  rb: {fileID: 0}
+--- !u!114 &-6018904779570743632
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5132432393389749611}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dceb989881b6f0c4384901f7eb4beb04, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  golias: {fileID: 0}
+  pedra: {fileID: 0}
+  seta: {fileID: 0}
+  success: {fileID: 0}
+  checkItemScriptableObject: {fileID: 11400000, guid: e75cc67065c683b4f962b34db9d0cecf,
+    type: 2}

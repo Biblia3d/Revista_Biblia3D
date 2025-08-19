@@ -1,0 +1,10 @@
+O site para gerar as vozes em português e inglês é o https://ttsmaker.com/br
+Voz portugues: Antônio-BR
+Voz Inglês: Alayna-US
+
+para usar uma voz
+
+Criar um LocalizedAudioClip e adicionar os arquivos de áudio pt e en
+Utilizar o componente (Script) Localized Audio Clip em um Audio Source
+
+*Consultar o Script do Quiz para entender um pouco do uso.

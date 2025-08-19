@@ -1,0 +1,9 @@
+﻿1
+00:00:00,001 --> 00:00:02,349
+Temos um outro jogo, Batalhas de Davi
+
+2
+00:00:02,374 --> 00:00:05,373
+você ganha um certificado
+quando derrota o Golias
+

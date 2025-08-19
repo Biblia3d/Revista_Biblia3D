@@ -1,0 +1,21 @@
+﻿1
+00:00:00,001 --> 00:00:00,809
+Goliath was a giant
+
+2
+00:00:00,834 --> 00:00:02,063
+of almost 3 meters
+
+3
+00:00:02,088 --> 00:00:03,722
+who appeared on the battlefield
+
+4
+00:00:03,747 --> 00:00:06,260
+and challenged all
+warriors to a battle
+
+5
+00:00:06,285 --> 00:00:08,740
+Find out how to take it down
+

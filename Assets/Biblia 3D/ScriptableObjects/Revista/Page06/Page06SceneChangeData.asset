@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a3d31697ccfa454285661622d1e2a17, type: 3}
+  m_Name: Page06SceneChangeData
+  m_EditorClassIdentifier: 
+  sceneName: Scene 4
+  sceneReturn: Revista
+  backgroundLoading: {fileID: 21300000, guid: 73df5721d154a804fa29c171455b5dc8, type: 3}
+  backgroundColor: {r: 0.9056604, g: 0.7911287, b: 0.41438237, a: 1}
+  foregroundLoadingRight: 0
+  foregroundLoading: {fileID: 0}
+  smallForegroundLoading: {fileID: 0}
+  localizedPageText: {fileID: 11400000, guid: 3abba88a8ef00854db38f714d6c7e1f9, type: 2}
+  localizedText: {fileID: 11400000, guid: b2e5c98f31ab5f64892a5d9727217941, type: 2}
+  centerLocalizedText: {fileID: 0}
+  localizedAudioClip: {fileID: 0}
+  subtitleScriptableObject: {fileID: 11400000, guid: 43d87ebdb66cd8042b16d8beaf0aa8fb,
+    type: 2}
+  loadingMusic: {fileID: 0}
+  davi3D: 0
+  hand: 0
+  loadSceneAsyncAdditive: 0
+  showSubtitle: 0

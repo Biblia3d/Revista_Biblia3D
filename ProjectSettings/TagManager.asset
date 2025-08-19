@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Target
+  - ARObject
+  - DaviStone
+  - Ground
+  - Ovelha
+  - Leao
+  - Mira
+  - aim
+  - Story_Manager
+  - Golias
+  - Davi10
+  - Spear
+  - Stop
+  - GameManager
+  - Music
+  - Voz
+  - Bird
+  - Davi
+  - ARCam
+  - Davi03
+  - Alvo
+  - Hand
+  - Rachadura
+  - Shield
+  - Direito
+  - Esquerdo
+  - ActiveARCam
+  - Funda
+  - Canvas
+  - Barreira
+  - Armadura
+  - ArmaduraCorpo
+  - Caneca
+  - SoundManager
+  - Sombra
+  - Urso
+  - Checklist
+  - Chao
+  - Obstacle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Chao
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

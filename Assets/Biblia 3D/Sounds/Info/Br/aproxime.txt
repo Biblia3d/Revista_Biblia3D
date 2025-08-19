@@ -1,0 +1,8 @@
+﻿1
+00:00:00,015 --> 00:00:00,992
+Por favor aproxime a câmera ou afaste
+
+2
+00:00:01,017 --> 00:00:02,431
+ou afaste até carregar
+

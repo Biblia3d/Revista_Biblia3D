@@ -1,0 +1,359 @@
+[33mcommit 23196a3d07677ecee8c396157e63ad24c33426fc[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32munity-2021[m[33m, [m[1;31morigin/unity-2021[m[33m)[m
+Author: Herbert Santos <hlrs1@discente.ifpe.edu.br>
+Date:   Mon Jun 10 22:49:52 2024 -0300
+
+    Correção no Card Davi e Golias (Animações nos personagens)
+
+[33mcommit eb450204b01b490e0dcae01ffed52631d69dee3a[m
+Author: Herbert Santos <hlrs1@discente.ifpe.edu.br>
+Date:   Tue May 28 23:02:26 2024 -0300
+
+    Correção no card Davi e Card Golias
+
+[33mcommit 78272d50838316f253186195b6321b46c5652fd1[m
+Author: Herbert Santos <hlrs1@discente.ifpe.edu.br>
+Date:   Mon May 27 20:06:14 2024 -0300
+
+    Correção no Card Jesus
+
+[33mcommit 2888bf9aa756c3a8213cc1c28eb07d7dc658dfab[m
+Author: Herbert Santos <hlrs1@discente.ifpe.edu.br>
+Date:   Tue May 14 22:50:02 2024 -0300
+
+    Correções no Card Jesus. Efeitos e animações funcionando. Falta verificar os cards de Davi e Golias. Simulação dos cards e vídeo tutorial funcionando.
+
+[33mcommit 82e70276fb9eb6dbe8db07c9623455e9e58c204d[m
+Author: Herbert Santos <hlrs1@discente.ifpe.edu.br>
+Date:   Mon May 13 22:58:24 2024 -0300
+
+    iz algumas correções nas páginas. Som de vitória sempre que derrubar o Golias na Capa, botão para exibir/ocultar o checklist, davi da página 22 joga pedra quando toca nele. Vou começar a trabalhar na correção dos cards.
+
+[33mcommit 0f03d70dd63fb26f226e4215bae34aefae10d3ee[m
+Author: Herbert Santos <hlrs1@discente.ifpe.edu.br>
+Date:   Tue May 7 22:29:39 2024 -0300
+
+    Terminei o checklist e o botão para zerar piscando quando as tarefas da página já estão completas. Movi a pedra da pagina 2 para o lado esquerdo da arvore.
+
+[33mcommit 50552d2906b9234fa64c86d07841fe0a6f137e27[m
+Author: Herbert Santos <hlrs1@discente.ifpe.edu.br>
+Date:   Wed May 1 11:57:45 2024 -0300
+
+    Feito o reset da capa e correções de bugs. Mudança de icones de azul para vermelho. App para publicaçao.
+
+[33mcommit 484fd5480e05f0bbdd6456cd57377a840760edcb[m
+Author: Herbert Santos <hlrs1@discente.ifpe.edu.br>
+Date:   Mon Apr 29 22:24:40 2024 -0300
+
+    Feito o reset das atividades realizadas por página.Falta o reset da capa. Os botões do menu principal estão normais. Subi um pouco a posição deles.
+
+[33mcommit 63fa42993c3f5ff71a3548092b1e6da20591c378[m
+Author: Herbert Santos <hlrs1@discente.ifpe.edu.br>
+Date:   Tue Apr 23 22:11:06 2024 -0300
+
+    Alteração na tela de loading da página principal(inicial) para a página da revista - não possui o botão continuar. Correção no tamanho e posição dos botões da tela inicial. Correção na cena dos cartões.
+
+[33mcommit 6338e2228134f818be9aa1af47349a14fdedd23d[m
+Author: Herbert Santos <hlrs1@discente.ifpe.edu.br>
+Date:   Tue Apr 2 22:46:34 2024 -0300
+
+    Correções nos tamanhos dos personagens das páginas e no script do urso para que ele não se mnova depois de derrotado.
+
+[33mcommit ef648f482e02db862b6679fcaab72d715e27a72a[m
+Author: Herbert Santos <hlrs1@discente.ifpe.edu.br>
+Date:   Tue Mar 26 22:35:38 2024 -0300
+
+    Correções nas páginas da revista. As páginas apresentam mensagem de conclusão com som; a cidade está mais perto da revista; golias da capa ao cair aparece a mensagem de ir para a próxima página;
+
+[33mcommit 8e043a89b5adad23a6807db911beca7e387940b0[m
+Author: Herbert Santos <hlrs1@discente.ifpe.edu.br>
+Date:   Mon Mar 25 23:07:59 2024 -0300
+
+    Correções solicitadas pelo grupo do whatsapp realizadas. Continuar as correções do keep.
+
+[33mcommit ff86e10b1afd7c1d1bfc78109841847d6a9536bd[m
+Author: Herbert Santos <cristovao.wollieson@gmail.com>
+Date:   Tue Feb 27 22:11:40 2024 -0300
+
+    Update para Unity 2021 com Apk gerado. Falta agora refazer umas paginas que ficaram quebradas e implementar melhorias no app.
+
+[33mcommit 2b13ad2be7f43b73bc4cc9567d08cc9d9deb3bf8[m[33m ([m[1;31morigin/update-unity-2019[m[33m, [m[1;32mupdate-unity-2019[m[33m, [m[1;32munity-2020[m[33m)[m
+Author: Herbert Santos <cristovao.wollieson@gmail.com>
+Date:   Tue Jan 30 22:13:42 2024 -0300
+
+    Todas as páginas funcionando como na versão 2018 upgrade concluído.
+
+[33mcommit 0abf108db2212cdc522b67d091df6565cf79a4bc[m
+Author: Cristovao Wollieson <cristovao.wollieson@gmail.com>
+Date:   Mon Jan 29 22:32:15 2024 -0300
+
+    Acredito que a correção dos bugs das páginas pós migração para unity 2019 foi concluída.
+
+[33mcommit da71ae44ec4a8b765c4b9a54e234880617300845[m
+Author: Cristovao Wollieson <cristovao.wollieson@gmail.com>
+Date:   Wed Jan 24 23:17:58 2024 -0300
+
+    A capa, as páginas 2, 6, 8, 12, 14, 16, 18, 20 e 22 e o verso estão funcionando bem. Na pagina 4 ainda não consegui fazer Davi atirar pedras e na pagina 10 os controles não aparecem na tela.
+
+[33mcommit ca8f44041f9472eeb14ed23147ff7508cf0ac999[m
+Author: Cristovao Wollieson <cristovao.wollieson@gmail.com>
+Date:   Tue Jan 16 23:26:17 2024 -0300
+
+    Atualização do projeto para unity 2019.4.40f1 e correção de bugs decorrentes da atualização. Ainda restam alguns bugs a corrigir.
+
+[33mcommit 277dbd5dfa7cb1ccf8c930c0f3635e0dec2dc759[m[33m ([m[1;31morigin/feature/cenas[m[33m, [m[1;32mfeature/cenas[m[33m)[m
+Author: Cristovao Wollieson <cristovao.wollieson@gmail.com>
+Date:   Mon Sep 25 10:35:12 2023 -0300
+
+    Fechando versao
+
+[33mcommit 2d285841f2bb88fb4bb18846cbd74981a0fb4a25[m
+Author: Cristovao Wollieson <cristovao.wollieson@gmail.com>
+Date:   Mon Sep 25 09:33:46 2023 -0300
+
+    ID #26 - Feito o recurso de exibir a pedra quando clicar em ouvir
+
+[33mcommit 59eca6e40d4921f95dda1ec3fcccfb1618b1cf1d[m[33m ([m[1;31morigin/develop[m[33m)[m
+Author: Cristovao Wollieson <cristovao.wollieson@gmail.com>
+Date:   Tue Sep 12 20:47:47 2023 -0300
+
+    Subindo versão do codigo
+
+[33mcommit fc2a8be215383f555365a3662eb1c569f333875e[m[33m ([m[1;32mdevelop[m[33m)[m
+Author: Gustavo Orlando <gustavoorlando.1d2015@gmail.com>
+Date:   Wed Sep 6 17:10:39 2023 -0300
+
+    Ultimas correcoes para SBB
+
+[33mcommit 6618a209bc575dcd272fc010a03d7d151785885f[m
+Author: Gustavo Orlando <gustavoorlando.1d2015@gmail.com>
+Date:   Tue Sep 5 16:16:03 2023 -0300
+
+    Correcao vida do golias e tempo dos textos
+
+[33mcommit 1a9402b1893494775ee0736a9a358a33801b64ad[m
+Author: Gustavo Orlando <gustavoorlando.1d2015@gmail.com>
+Date:   Mon Sep 4 16:06:14 2023 -0300
+
+    Novas Correcoes_Correcoes Mais Simples
+
+[33mcommit 97f1429e6f823a610423da17ea28dff8b0a8807e[m
+Author: Cristovao Wollieson <cristovao.wollieson@gmail.com>
+Date:   Mon Sep 4 10:09:32 2023 -0300
+
+    Correcao na posicao de Davi na scene
+
+[33mcommit fd12b67a44e30c6636d890f3be658150ca1c4cf1[m
+Author: Gustavo Orlando <gustavoorlando.1d2015@gmail.com>
+Date:   Thu Aug 31 17:49:34 2023 -0300
+
+    Corrigindo pagina 22
+
+[33mcommit 11d93580444a4b47f97c7395016abb5dd608f0eb[m
+Merge: 03ba89d 0046108
+Author: Cristovao Wollieson <cristovao.wollieson@gmail.com>
+Date:   Thu Aug 31 17:41:21 2023 -0300
+
+    Merge branch 'feature/pagina22' into develop
+
+[33mcommit 03ba89de9999b5b71fece1850ed334ea066b3b88[m
+Author: Gustavo Orlando <gustavoorlando.1d2015@gmail.com>
+Date:   Thu Aug 31 17:36:37 2023 -0300
+
+    Colocando som da funda
+
+[33mcommit 0046108c16e8f444a11b46e0261307d52965deb8[m
+Author: Cristovao Wollieson <cristovao.wollieson@gmail.com>
+Date:   Thu Aug 31 17:15:39 2023 -0300
+
+    Corrigida animacao final da pagina 22
+
+[33mcommit d77ee924417e6f2c6d444de165ce97b88cf6fbeb[m
+Author: Gustavo Orlando <gustavoorlando.1d2015@gmail.com>
+Date:   Thu Aug 31 16:36:46 2023 -0300
+
+    Corrigindo ultimo commit de correcao
+
+[33mcommit 06432f98ba2c60a801bbcc15c40ae21d0d412941[m
+Author: Gustavo Orlando <gustavoorlando.1d2015@gmail.com>
+Date:   Thu Aug 31 16:30:17 2023 -0300
+
+    Penultima correcao do checklist
+
+[33mcommit 15416564749218e9d09c23e747784baa1a01e6f1[m
+Author: Cristovao Wollieson <cristovao.wollieson@gmail.com>
+Date:   Thu Aug 31 15:31:32 2023 -0300
+
+    Feito o recurso, preparando para testes
+
+[33mcommit 7fd7f3eedcbef2529e120143dd5b59c2ba51b271[m
+Author: Gustavo Orlando <gustavoorlando.1d2015@gmail.com>
+Date:   Wed Aug 30 15:58:12 2023 -0300
+
+    Continuacao da correcao do checklist para SBB
+
+[33mcommit adfbca0ca03f1bf7332fe802abf51ade9a13d4b3[m
+Merge: d017a3a 9590a1f
+Author: Cristovao Wollieson <cristovao.wollieson@gmail.com>
+Date:   Wed Aug 30 06:50:27 2023 -0300
+
+    Merge branch 'feature/moeda' into develop
+
+[33mcommit 9590a1fa989349183ab5f412c57d8c4fdc7bff64[m
+Author: Cristovao Wollieson <cristovao.wollieson@gmail.com>
+Date:   Wed Aug 30 06:45:55 2023 -0300
+
+    Feito o recurso da moeda para ser reconhecida na revista
+
+[33mcommit d017a3aa89ab43a8ba7357d632ee2f8667991271[m
+Author: Gustavo Orlando <gustavoorlando.1d2015@gmail.com>
+Date:   Tue Aug 29 16:00:48 2023 -0300
+
+    Corrigindo CheckList
+
+[33mcommit 2c9d6fbcdb16bb641eb8a4072347ffb627cb39de[m
+Author: Gustavo Orlando <gustavoorlando.1d2015@gmail.com>
+Date:   Sun Aug 27 23:29:01 2023 -0300
+
+    Enviando Vozes Complementares
+
+[33mcommit b912cea886920f1f0b2dfc84c157bc909679205d[m
+Author: Gustavo Orlando <gustavoorlando.1d2015@gmail.com>
+Date:   Sun Aug 27 22:05:45 2023 -0300
+
+    Colocando Nova Voz na Revista
+
+[33mcommit 2ab6f7a92320fe40ca2e1199a4cea93532c716ae[m
+Author: Gustavo Orlando <gustavoorlando.1d2015@gmail.com>
+Date:   Thu Aug 24 14:21:33 2023 -0300
+
+    Corrigindo area clicavel do menu
+
+[33mcommit 11aa8cdb677fd6e3dc40f8b85d492d9e4d3a8d20[m
+Author: Gustavo Orlando <gustavoorlando.1d2015@gmail.com>
+Date:   Thu Aug 24 14:01:30 2023 -0300
+
+    Resolvendo pedido da scene Menu
+
+[33mcommit 1f31ad08a5b8ddcea175d4132ff045ffee305949[m
+Author: Gustavo Orlando <gustavoorlando.1d2015@gmail.com>
+Date:   Tue Aug 22 16:17:30 2023 -0300
+
+    Criando DaviSoundTouch
+
+[33mcommit ef7c5c7e7f2ef38a61fc3cacba847e182f649406[m
+Author: Gustavo Orlando <gustavoorlando.1d2015@gmail.com>
+Date:   Fri Aug 18 16:08:23 2023 -0300
+
+    Tamanho da cidade modificado
+
+[33mcommit 3bb95bdd4d1df08efe5d130d13dc0498f84b0455[m
+Author: Gustavo Orlando <gustavoorlando.1d2015@gmail.com>
+Date:   Fri Aug 18 11:13:01 2023 -0300
+
+    Distancia entre Davi e Golias Corrigida
+
+[33mcommit 0bdf99d04145b9874592b57c2a05eac1e8eba59a[m
+Author: Gustavo Orlando <gustavoorlando.1d2015@gmail.com>
+Date:   Thu Aug 17 16:44:36 2023 -0300
+
+    Tentativa de ajeitar a distancia
+
+[33mcommit d9a0579c0bb75bdc97fe4abdbcc483a0ae6ee293[m
+Author: Gustavo Orlando <gustavoorlando.1d2015@gmail.com>
+Date:   Thu Aug 17 13:34:05 2023 -0300
+
+    ajeitando origin remote
+
+[33mcommit 846efb032e2c2cbff0428deeef24f18b859459db[m
+Author: Gustavo Orlando <gustavoorlando.1d2015@gmail.com>
+Date:   Thu Aug 17 12:00:13 2023 -0300
+
+    commitando correcoes
+
+[33mcommit 92b913ecaa83056ddb516ac53c55e9efba4a7bb2[m
+Author: Gustavo Orlando <gustavoorlando.1d2015@gmail.com>
+Date:   Fri Aug 11 13:53:59 2023 -0300
+
+    correcao_11_08_23
+
+[33mcommit e366ead3b1d644242e44602fa812f7174492e7cf[m
+Merge: 24e862b bc17fe3
+Author: Cristovao Wollieson <cristovao.wollieson@gmail.com>
+Date:   Fri Apr 14 12:44:07 2023 -0300
+
+    Merge tag '1.3' into develop
+    
+    Fechando a versao do biblia 3d para 1.3
+
+[33mcommit bc17fe3c8ea9e5dab945e5ec0633628dca57a81f[m[33m ([m[1;33mtag: [m[1;33m1.3[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: 6c2d65c 82361f5
+Author: Cristovao Wollieson <cristovao.wollieson@gmail.com>
+Date:   Fri Apr 14 12:43:26 2023 -0300
+
+    Merge branch 'release/1.3'
+
+[33mcommit 82361f5c0026afe72a24669ed1b13a22fdefbf02[m
+Merge: 214890c 75f39cf
+Author: Cristovao Wollieson <cristovao.wollieson@gmail.com>
+Date:   Fri Apr 14 12:40:29 2023 -0300
+
+    Merge branch 'release/1.3' of https://bitbucket.org/biblia3d-workspace/revistabiblia3d into release/1.3
+
+[33mcommit 214890c831026b199a55ea8cc8636ed4adab1f6a[m
+Author: Cristovao Wollieson <cristovao.wollieson@gmail.com>
+Date:   Fri Apr 14 12:35:04 2023 -0300
+
+    Pequenos ajustes para o projeto
+
+[33mcommit 75f39cfeb9540a89b96b4e99658dea39f761e311[m
+Author: Cristovao Wollieson <cristovao.wollieson@gmail.com>
+Date:   Fri Apr 14 12:03:01 2023 -0300
+
+    Ajuste do projeto
+
+[33mcommit 3534f878eab4c98691c0eca040f549a3a3e3f465[m
+Author: Cristovao Wollieson <cristovao.wollieson@gmail.com>
+Date:   Fri Feb 4 09:01:18 2022 -0300
+
+    Realizando o commit de seguranca
+
+[33mcommit 24e862b3a3c39df0447a224d13303142d37d7000[m
+Merge: 80c8b07 6c2d65c
+Author: Cristovao Andrade <cristovao.wollieson@gmail.com>
+Date:   Wed Mar 17 11:32:21 2021 -0300
+
+    Merge tag '1.2' into develop
+    
+    Fechando a versao 1.2 para producao
+
+[33mcommit 6c2d65c4a5c2aa1da62e4132694287273ce43a5a[m[33m ([m[1;33mtag: [m[1;33m1.2[m[33m)[m
+Merge: 83d384c 80c8b07
+Author: Cristovao Andrade <cristovao.wollieson@gmail.com>
+Date:   Wed Mar 17 11:30:54 2021 -0300
+
+    Merge branch 'release/1.2'
+
+[33mcommit 80c8b077edc5ffe4b62f84e23ab23fe45111d85a[m
+Merge: 83d384c 272125d
+Author: Cristovao Andrade <cristovao.wollieson@gmail.com>
+Date:   Wed Mar 17 11:27:58 2021 -0300
+
+    Merge branch 'feature/udp' into develop
+
+[33mcommit 272125d7d900bc3464bdba9d94347616c3688862[m
+Author: Cristovao Andrade <cristovao.wollieson@gmail.com>
+Date:   Wed Mar 17 11:26:38 2021 -0300
+
+    Feita as modificacoes para a versao 1.2
+
+[33mcommit 5b2429006e3e441f207712f343494810df1fd29b[m
+Author: Cristovao Andrade <cristovao.wollieson@gmail.com>
+Date:   Wed Mar 10 14:24:17 2021 -0300
+
+    Preprando o codigo de seguranca
+
+[33mcommit 83d384c5ce5d28138d728185b394ee07f49be5c5[m[33m ([m[1;33mtag: [m[1;33m1.1[m[33m)[m
+Author: Cristovao Andrade <cristovao.wollieson@gmail.com>
+Date:   Thu Mar 4 07:39:21 2021 -0300
+
+    Subindo a versao 1.1 do codigo do jogo

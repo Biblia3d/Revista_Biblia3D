@@ -1,0 +1,435 @@
+fileFormatVersion: 2
+guid: b8c3bf0afedf8b64ca922331ec951c9b
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Big Tent
+  - first:
+      1: 100002
+    second: //RootNode
+  - first:
+      1: 100004
+    second: Bone070
+  - first:
+      1: 100006
+    second: Bone071
+  - first:
+      1: 100008
+    second: Bone072
+  - first:
+      1: 100010
+    second: Bone073
+  - first:
+      1: 100012
+    second: Bone074
+  - first:
+      1: 100014
+    second: Bone075
+  - first:
+      1: 100016
+    second: Bone076
+  - first:
+      1: 100018
+    second: Bone077
+  - first:
+      1: 100020
+    second: Bone078
+  - first:
+      1: 100022
+    second: Bone079
+  - first:
+      1: 100024
+    second: Bone080
+  - first:
+      1: 100026
+    second: Bone081
+  - first:
+      1: 100028
+    second: Bone082
+  - first:
+      1: 100030
+    second: Bone083
+  - first:
+      1: 100032
+    second: Bone133
+  - first:
+      1: 100034
+    second: Bone134
+  - first:
+      1: 100036
+    second: Bone135
+  - first:
+      1: 100038
+    second: Bone136
+  - first:
+      1: 100040
+    second: Bone137
+  - first:
+      1: 100042
+    second: Bone138
+  - first:
+      1: 100044
+    second: Bone139
+  - first:
+      1: 100046
+    second: Bone140
+  - first:
+      1: 100048
+    second: Bone141
+  - first:
+      1: 100050
+    second: Bone142
+  - first:
+      1: 100052
+    second: Bone143
+  - first:
+      1: 100054
+    second: Bone144
+  - first:
+      1: 100056
+    second: Tent_L_Row1_1
+  - first:
+      1: 100058
+    second: Tent_l_Row1_2
+  - first:
+      1: 100060
+    second: Tent_L_Row2_1
+  - first:
+      1: 100062
+    second: Tent_L_Row2_2
+  - first:
+      1: 100064
+    second: Tent_R_Row1_1
+  - first:
+      1: 100066
+    second: Tent_R_Row1_2
+  - first:
+      1: 100068
+    second: Tent_R_Row2_1
+  - first:
+      1: 100070
+    second: Tent_R_Row2_2
+  - first:
+      4: 400000
+    second: Big Tent
+  - first:
+      4: 400002
+    second: //RootNode
+  - first:
+      4: 400004
+    second: Bone070
+  - first:
+      4: 400006
+    second: Bone071
+  - first:
+      4: 400008
+    second: Bone072
+  - first:
+      4: 400010
+    second: Bone073
+  - first:
+      4: 400012
+    second: Bone074
+  - first:
+      4: 400014
+    second: Bone075
+  - first:
+      4: 400016
+    second: Bone076
+  - first:
+      4: 400018
+    second: Bone077
+  - first:
+      4: 400020
+    second: Bone078
+  - first:
+      4: 400022
+    second: Bone079
+  - first:
+      4: 400024
+    second: Bone080
+  - first:
+      4: 400026
+    second: Bone081
+  - first:
+      4: 400028
+    second: Bone082
+  - first:
+      4: 400030
+    second: Bone083
+  - first:
+      4: 400032
+    second: Bone133
+  - first:
+      4: 400034
+    second: Bone134
+  - first:
+      4: 400036
+    second: Bone135
+  - first:
+      4: 400038
+    second: Bone136
+  - first:
+      4: 400040
+    second: Bone137
+  - first:
+      4: 400042
+    second: Bone138
+  - first:
+      4: 400044
+    second: Bone139
+  - first:
+      4: 400046
+    second: Bone140
+  - first:
+      4: 400048
+    second: Bone141
+  - first:
+      4: 400050
+    second: Bone142
+  - first:
+      4: 400052
+    second: Bone143
+  - first:
+      4: 400054
+    second: Bone144
+  - first:
+      4: 400056
+    second: Tent_L_Row1_1
+  - first:
+      4: 400058
+    second: Tent_l_Row1_2
+  - first:
+      4: 400060
+    second: Tent_L_Row2_1
+  - first:
+      4: 400062
+    second: Tent_L_Row2_2
+  - first:
+      4: 400064
+    second: Tent_R_Row1_1
+  - first:
+      4: 400066
+    second: Tent_R_Row1_2
+  - first:
+      4: 400068
+    second: Tent_R_Row2_1
+  - first:
+      4: 400070
+    second: Tent_R_Row2_2
+  - first:
+      43: 4300000
+    second: Big Tent
+  - first:
+      74: 7400000
+    second: BigTent_Anim
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: Big Tent
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: BigTent_Anim
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Big Tent
+        weight: 1
+      - path: Bone070
+        weight: 1
+      - path: Bone070/Bone071
+        weight: 1
+      - path: Bone072
+        weight: 1
+      - path: Bone072/Bone073
+        weight: 1
+      - path: Bone074
+        weight: 1
+      - path: Bone074/Bone075
+        weight: 1
+      - path: Bone076
+        weight: 1
+      - path: Bone076/Bone077
+        weight: 1
+      - path: Bone078
+        weight: 1
+      - path: Bone078/Bone079
+        weight: 1
+      - path: Bone080
+        weight: 1
+      - path: Bone080/Bone081
+        weight: 1
+      - path: Bone082
+        weight: 1
+      - path: Bone082/Bone083
+        weight: 1
+      - path: Bone133
+        weight: 1
+      - path: Bone133/Bone134
+        weight: 1
+      - path: Bone133/Bone134/Bone135
+        weight: 1
+      - path: Bone136
+        weight: 1
+      - path: Bone136/Bone137
+        weight: 1
+      - path: Bone136/Bone137/Bone138
+        weight: 1
+      - path: Bone139
+        weight: 1
+      - path: Bone139/Bone140
+        weight: 1
+      - path: Bone139/Bone140/Bone141
+        weight: 1
+      - path: Bone142
+        weight: 1
+      - path: Bone142/Bone143
+        weight: 1
+      - path: Bone142/Bone143/Bone144
+        weight: 1
+      - path: Tent_L_Row1_1
+        weight: 1
+      - path: Tent_L_Row1_1/Tent_l_Row1_2
+        weight: 1
+      - path: Tent_L_Row2_1
+        weight: 1
+      - path: Tent_L_Row2_1/Tent_L_Row2_2
+        weight: 1
+      - path: Tent_R_Row1_1
+        weight: 1
+      - path: Tent_R_Row1_1/Tent_R_Row1_2
+        weight: 1
+      - path: Tent_R_Row2_1
+        weight: 1
+      - path: Tent_R_Row2_1/Tent_R_Row2_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 90
+    normalImportMode: 1
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

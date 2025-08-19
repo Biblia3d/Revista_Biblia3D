@@ -1,0 +1,4 @@
+﻿1
+00:00:00,007 --> 00:00:02,126
+Ajude a Davi derrotar o Golias
+

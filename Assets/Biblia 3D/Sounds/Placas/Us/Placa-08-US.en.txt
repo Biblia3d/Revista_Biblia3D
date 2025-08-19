@@ -1,0 +1,5 @@
+﻿1
+00:00:00,001 --> 00:00:03,817
+The challenge has been
+launched, click on King Saul or David
+

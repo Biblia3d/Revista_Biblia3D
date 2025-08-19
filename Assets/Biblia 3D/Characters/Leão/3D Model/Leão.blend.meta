@@ -1,0 +1,1238 @@
+fileFormatVersion: 2
+guid: ab980af863a97a042ab5bf0b629bcb1a
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Antebraco_L
+  - first:
+      1: 100002
+    second: Antebraco_R
+  - first:
+      1: 100004
+    second: Armature
+  - first:
+      1: 100006
+    second: Batata_L
+  - first:
+      1: 100008
+    second: Batata_R
+  - first:
+      1: 100010
+    second: Boca
+  - first:
+      1: 100012
+    second: Braco_L
+  - first:
+      1: 100014
+    second: Braco_L_001
+  - first:
+      1: 100016
+    second: Braco_R
+  - first:
+      1: 100018
+    second: Braco_R_001
+  - first:
+      1: 100020
+    second: Cabeca
+  - first:
+      1: 100022
+    second: Coxa_L
+  - first:
+      1: 100024
+    second: Coxa_R
+  - first:
+      1: 100026
+    second: Dedos_L
+  - first:
+      1: 100028
+    second: Dedos_R
+  - first:
+      1: 100030
+    second: Espinha
+  - first:
+      1: 100032
+    second: Espinha_001
+  - first:
+      1: 100034
+    second: Espinha_002
+  - first:
+      1: 100036
+    second: Espinha_003
+  - first:
+      1: 100038
+    second: hip
+  - first:
+      1: 100040
+    second: Leao
+  - first:
+      1: 100042
+    second: //RootNode
+  - first:
+      1: 100044
+    second: Mao_L
+  - first:
+      1: 100046
+    second: Mao_R
+  - first:
+      1: 100048
+    second: Olho_L
+  - first:
+      1: 100050
+    second: Olho_L_001
+  - first:
+      1: 100052
+    second: Olho_L_002
+  - first:
+      1: 100054
+    second: Olho_R
+  - first:
+      1: 100056
+    second: Olho_R_001
+  - first:
+      1: 100058
+    second: Olho_R_002
+  - first:
+      1: 100060
+    second: Pe_L
+  - first:
+      1: 100062
+    second: Pe_R
+  - first:
+      1: 100064
+    second: Pivot
+  - first:
+      1: 100066
+    second: Plane
+  - first:
+      1: 100068
+    second: Plane_004
+  - first:
+      1: 100070
+    second: Rabo
+  - first:
+      1: 100072
+    second: Rabo_001
+  - first:
+      1: 100074
+    second: Rabo_002
+  - first:
+      4: 400000
+    second: Antebraco_L
+  - first:
+      4: 400002
+    second: Antebraco_R
+  - first:
+      4: 400004
+    second: Armature
+  - first:
+      4: 400006
+    second: Batata_L
+  - first:
+      4: 400008
+    second: Batata_R
+  - first:
+      4: 400010
+    second: Boca
+  - first:
+      4: 400012
+    second: Braco_L
+  - first:
+      4: 400014
+    second: Braco_L_001
+  - first:
+      4: 400016
+    second: Braco_R
+  - first:
+      4: 400018
+    second: Braco_R_001
+  - first:
+      4: 400020
+    second: Cabeca
+  - first:
+      4: 400022
+    second: Coxa_L
+  - first:
+      4: 400024
+    second: Coxa_R
+  - first:
+      4: 400026
+    second: Dedos_L
+  - first:
+      4: 400028
+    second: Dedos_R
+  - first:
+      4: 400030
+    second: Espinha
+  - first:
+      4: 400032
+    second: Espinha_001
+  - first:
+      4: 400034
+    second: Espinha_002
+  - first:
+      4: 400036
+    second: Espinha_003
+  - first:
+      4: 400038
+    second: hip
+  - first:
+      4: 400040
+    second: Leao
+  - first:
+      4: 400042
+    second: //RootNode
+  - first:
+      4: 400044
+    second: Mao_L
+  - first:
+      4: 400046
+    second: Mao_R
+  - first:
+      4: 400048
+    second: Olho_L
+  - first:
+      4: 400050
+    second: Olho_L_001
+  - first:
+      4: 400052
+    second: Olho_L_002
+  - first:
+      4: 400054
+    second: Olho_R
+  - first:
+      4: 400056
+    second: Olho_R_001
+  - first:
+      4: 400058
+    second: Olho_R_002
+  - first:
+      4: 400060
+    second: Pe_L
+  - first:
+      4: 400062
+    second: Pe_R
+  - first:
+      4: 400064
+    second: Pivot
+  - first:
+      4: 400066
+    second: Plane
+  - first:
+      4: 400068
+    second: Plane_004
+  - first:
+      4: 400070
+    second: Rabo
+  - first:
+      4: 400072
+    second: Rabo_001
+  - first:
+      4: 400074
+    second: Rabo_002
+  - first:
+      23: 2300000
+    second: Plane
+  - first:
+      23: 2300002
+    second: Plane_004
+  - first:
+      33: 3300000
+    second: Plane
+  - first:
+      33: 3300002
+    second: Plane_004
+  - first:
+      43: 4300000
+    second: Plane
+  - first:
+      43: 4300002
+    second: Leao
+  - first:
+      43: 4300004
+    second: Plane_004
+  - first:
+      74: 7400000
+    second: Default Take
+  - first:
+      74: 7400002
+    second: Acao_03
+  - first:
+      74: 7400004
+    second: andar_
+  - first:
+      74: 7400006
+    second: asdf
+  - first:
+      74: 7400008
+    second: batendo_
+  - first:
+      74: 7400010
+    second: Correndo
+  - first:
+      74: 7400012
+    second: morrendo_
+  - first:
+      74: 7400014
+    second: Rugido
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: Leao
+  - first:
+      41386430: 2186277476908879412
+    second: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leao__Untitled
+    second: {fileID: 2100000, guid: e6352f62cb7b26347aa2db8f782c52d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: unnamed
+    second: {fileID: 2100000, guid: d3deb0d80a4c77a488469ba72aa26ef0, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      internalID: 0
+      firstFrame: -1
+      lastFrame: 33
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/hip
+        weight: 1
+      - path: Armature/hip/Coxa_L
+        weight: 1
+      - path: Armature/hip/Coxa_L/Batata_L
+        weight: 1
+      - path: Armature/hip/Coxa_L/Batata_L/Pe_L
+        weight: 1
+      - path: Armature/hip/Coxa_R
+        weight: 1
+      - path: Armature/hip/Coxa_R/Batata_R
+        weight: 1
+      - path: Armature/hip/Coxa_R/Batata_R/Pe_R
+        weight: 1
+      - path: Armature/hip/Dedos_L
+        weight: 1
+      - path: Armature/hip/Dedos_R
+        weight: 1
+      - path: Armature/hip/Espinha
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_L_001
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_L_001/Braco_L
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_L_001/Braco_L/Antebraco_L
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_L_001/Mao_L
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_R_001
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_R_001/Braco_R
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_R_001/Braco_R/Antebraco_R
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_R_001/Mao_R
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca/Boca
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca/Olho_L
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca/Olho_L_001
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca/Olho_L_002
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca/Olho_R
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca/Olho_R_001
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca/Olho_R_002
+        weight: 1
+      - path: Armature/hip/Rabo
+        weight: 1
+      - path: Armature/hip/Rabo/Rabo_001
+        weight: 1
+      - path: Armature/hip/Rabo/Rabo_001/Rabo_002
+        weight: 1
+      - path: Armature/Pivot
+        weight: 1
+      - path: Leao
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Plane_004
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Acao_03
+      takeName: Acao_03
+      internalID: 0
+      firstFrame: -1
+      lastFrame: 37
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/hip
+        weight: 1
+      - path: Armature/hip/Coxa_L
+        weight: 1
+      - path: Armature/hip/Coxa_L/Batata_L
+        weight: 1
+      - path: Armature/hip/Coxa_L/Batata_L/Pe_L
+        weight: 1
+      - path: Armature/hip/Coxa_R
+        weight: 1
+      - path: Armature/hip/Coxa_R/Batata_R
+        weight: 1
+      - path: Armature/hip/Coxa_R/Batata_R/Pe_R
+        weight: 1
+      - path: Armature/hip/Dedos_L
+        weight: 1
+      - path: Armature/hip/Dedos_R
+        weight: 1
+      - path: Armature/hip/Espinha
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_L_001
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_L_001/Braco_L
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_L_001/Braco_L/Antebraco_L
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_L_001/Mao_L
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_R_001
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_R_001/Braco_R
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_R_001/Braco_R/Antebraco_R
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_R_001/Mao_R
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca/Boca
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca/Olho_L
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca/Olho_L_001
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca/Olho_L_002
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca/Olho_R
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca/Olho_R_001
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca/Olho_R_002
+        weight: 1
+      - path: Armature/hip/Rabo
+        weight: 1
+      - path: Armature/hip/Rabo/Rabo_001
+        weight: 1
+      - path: Armature/hip/Rabo/Rabo_001/Rabo_002
+        weight: 1
+      - path: Armature/Pivot
+        weight: 1
+      - path: Leao
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Plane_004
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: andar_
+      takeName: andar_
+      internalID: 0
+      firstFrame: 1
+      lastFrame: 69
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/hip
+        weight: 1
+      - path: Armature/hip/Coxa_L
+        weight: 1
+      - path: Armature/hip/Coxa_L/Batata_L
+        weight: 1
+      - path: Armature/hip/Coxa_L/Batata_L/Pe_L
+        weight: 1
+      - path: Armature/hip/Coxa_R
+        weight: 1
+      - path: Armature/hip/Coxa_R/Batata_R
+        weight: 1
+      - path: Armature/hip/Coxa_R/Batata_R/Pe_R
+        weight: 1
+      - path: Armature/hip/Dedos_L
+        weight: 1
+      - path: Armature/hip/Dedos_R
+        weight: 1
+      - path: Armature/hip/Espinha
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_L_001
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_L_001/Braco_L
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_L_001/Braco_L/Antebraco_L
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_L_001/Mao_L
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_R_001
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_R_001/Braco_R
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_R_001/Braco_R/Antebraco_R
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_R_001/Mao_R
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca/Boca
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca/Olho_L
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca/Olho_L_001
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca/Olho_L_002
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca/Olho_R
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca/Olho_R_001
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca/Olho_R_002
+        weight: 1
+      - path: Armature/hip/Rabo
+        weight: 1
+      - path: Armature/hip/Rabo/Rabo_001
+        weight: 1
+      - path: Armature/hip/Rabo/Rabo_001/Rabo_002
+        weight: 1
+      - path: Armature/Pivot
+        weight: 1
+      - path: Leao
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Plane_004
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: asdf
+      takeName: asdf
+      internalID: 0
+      firstFrame: -1
+      lastFrame: 12
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/hip
+        weight: 1
+      - path: Armature/hip/Coxa_L
+        weight: 1
+      - path: Armature/hip/Coxa_L/Batata_L
+        weight: 1
+      - path: Armature/hip/Coxa_L/Batata_L/Pe_L
+        weight: 1
+      - path: Armature/hip/Coxa_R
+        weight: 1
+      - path: Armature/hip/Coxa_R/Batata_R
+        weight: 1
+      - path: Armature/hip/Coxa_R/Batata_R/Pe_R
+        weight: 1
+      - path: Armature/hip/Dedos_L
+        weight: 1
+      - path: Armature/hip/Dedos_R
+        weight: 1
+      - path: Armature/hip/Espinha
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_L_001
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_L_001/Braco_L
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_L_001/Braco_L/Antebraco_L
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_L_001/Mao_L
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_R_001
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_R_001/Braco_R
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_R_001/Braco_R/Antebraco_R
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_R_001/Mao_R
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca/Boca
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca/Olho_L
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca/Olho_L_001
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca/Olho_L_002
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca/Olho_R
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca/Olho_R_001
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca/Olho_R_002
+        weight: 1
+      - path: Armature/hip/Rabo
+        weight: 1
+      - path: Armature/hip/Rabo/Rabo_001
+        weight: 1
+      - path: Armature/hip/Rabo/Rabo_001/Rabo_002
+        weight: 1
+      - path: Armature/Pivot
+        weight: 1
+      - path: Leao
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Plane_004
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: batendo_
+      takeName: batendo_
+      internalID: 0
+      firstFrame: -1
+      lastFrame: 19
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/hip
+        weight: 1
+      - path: Armature/hip/Coxa_L
+        weight: 1
+      - path: Armature/hip/Coxa_L/Batata_L
+        weight: 1
+      - path: Armature/hip/Coxa_L/Batata_L/Pe_L
+        weight: 1
+      - path: Armature/hip/Coxa_R
+        weight: 1
+      - path: Armature/hip/Coxa_R/Batata_R
+        weight: 1
+      - path: Armature/hip/Coxa_R/Batata_R/Pe_R
+        weight: 1
+      - path: Armature/hip/Dedos_L
+        weight: 1
+      - path: Armature/hip/Dedos_R
+        weight: 1
+      - path: Armature/hip/Espinha
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_L_001
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_L_001/Braco_L
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_L_001/Braco_L/Antebraco_L
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_L_001/Mao_L
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_R_001
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_R_001/Braco_R
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_R_001/Braco_R/Antebraco_R
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_R_001/Mao_R
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca/Boca
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca/Olho_L
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca/Olho_L_001
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca/Olho_L_002
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca/Olho_R
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca/Olho_R_001
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca/Olho_R_002
+        weight: 1
+      - path: Armature/hip/Rabo
+        weight: 1
+      - path: Armature/hip/Rabo/Rabo_001
+        weight: 1
+      - path: Armature/hip/Rabo/Rabo_001/Rabo_002
+        weight: 1
+      - path: Armature/Pivot
+        weight: 1
+      - path: Leao
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Plane_004
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Correndo
+      takeName: Correndo
+      internalID: 0
+      firstFrame: -1
+      lastFrame: 79
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/hip
+        weight: 1
+      - path: Armature/hip/Coxa_L
+        weight: 1
+      - path: Armature/hip/Coxa_L/Batata_L
+        weight: 1
+      - path: Armature/hip/Coxa_L/Batata_L/Pe_L
+        weight: 1
+      - path: Armature/hip/Coxa_R
+        weight: 1
+      - path: Armature/hip/Coxa_R/Batata_R
+        weight: 1
+      - path: Armature/hip/Coxa_R/Batata_R/Pe_R
+        weight: 1
+      - path: Armature/hip/Dedos_L
+        weight: 1
+      - path: Armature/hip/Dedos_R
+        weight: 1
+      - path: Armature/hip/Espinha
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_L_001
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_L_001/Braco_L
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_L_001/Braco_L/Antebraco_L
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_L_001/Mao_L
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_R_001
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_R_001/Braco_R
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_R_001/Braco_R/Antebraco_R
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_R_001/Mao_R
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca/Boca
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca/Olho_L
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca/Olho_L_001
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca/Olho_L_002
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca/Olho_R
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca/Olho_R_001
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca/Olho_R_002
+        weight: 1
+      - path: Armature/hip/Rabo
+        weight: 1
+      - path: Armature/hip/Rabo/Rabo_001
+        weight: 1
+      - path: Armature/hip/Rabo/Rabo_001/Rabo_002
+        weight: 1
+      - path: Armature/Pivot
+        weight: 1
+      - path: Leao
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Plane_004
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: morrendo_
+      takeName: morrendo_
+      internalID: 0
+      firstFrame: -1
+      lastFrame: 33
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/hip
+        weight: 1
+      - path: Armature/hip/Coxa_L
+        weight: 1
+      - path: Armature/hip/Coxa_L/Batata_L
+        weight: 1
+      - path: Armature/hip/Coxa_L/Batata_L/Pe_L
+        weight: 1
+      - path: Armature/hip/Coxa_R
+        weight: 1
+      - path: Armature/hip/Coxa_R/Batata_R
+        weight: 1
+      - path: Armature/hip/Coxa_R/Batata_R/Pe_R
+        weight: 1
+      - path: Armature/hip/Dedos_L
+        weight: 1
+      - path: Armature/hip/Dedos_R
+        weight: 1
+      - path: Armature/hip/Espinha
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_L_001
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_L_001/Braco_L
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_L_001/Braco_L/Antebraco_L
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_L_001/Mao_L
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_R_001
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_R_001/Braco_R
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_R_001/Braco_R/Antebraco_R
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_R_001/Mao_R
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca/Boca
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca/Olho_L
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca/Olho_L_001
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca/Olho_L_002
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca/Olho_R
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca/Olho_R_001
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca/Olho_R_002
+        weight: 1
+      - path: Armature/hip/Rabo
+        weight: 1
+      - path: Armature/hip/Rabo/Rabo_001
+        weight: 1
+      - path: Armature/hip/Rabo/Rabo_001/Rabo_002
+        weight: 1
+      - path: Armature/Pivot
+        weight: 1
+      - path: Leao
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Plane_004
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Rugido
+      takeName: Rugido
+      internalID: 0
+      firstFrame: -1
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/hip
+        weight: 1
+      - path: Armature/hip/Coxa_L
+        weight: 1
+      - path: Armature/hip/Coxa_L/Batata_L
+        weight: 1
+      - path: Armature/hip/Coxa_L/Batata_L/Pe_L
+        weight: 1
+      - path: Armature/hip/Coxa_R
+        weight: 1
+      - path: Armature/hip/Coxa_R/Batata_R
+        weight: 1
+      - path: Armature/hip/Coxa_R/Batata_R/Pe_R
+        weight: 1
+      - path: Armature/hip/Dedos_L
+        weight: 1
+      - path: Armature/hip/Dedos_R
+        weight: 1
+      - path: Armature/hip/Espinha
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_L_001
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_L_001/Braco_L
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_L_001/Braco_L/Antebraco_L
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_L_001/Mao_L
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_R_001
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_R_001/Braco_R
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_R_001/Braco_R/Antebraco_R
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Braco_R_001/Mao_R
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca/Boca
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca/Olho_L
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca/Olho_L_001
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca/Olho_L_002
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca/Olho_R
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca/Olho_R_001
+        weight: 1
+      - path: Armature/hip/Espinha/Espinha_001/Espinha_002/Espinha_003/Cabeca/Olho_R_002
+        weight: 1
+      - path: Armature/hip/Rabo
+        weight: 1
+      - path: Armature/hip/Rabo/Rabo_001
+        weight: 1
+      - path: Armature/hip/Rabo/Rabo_001/Rabo_002
+        weight: 1
+      - path: Armature/Pivot
+        weight: 1
+      - path: Leao
+        weight: 1
+      - path: Plane
+        weight: 1
+      - path: Plane_004
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 100
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

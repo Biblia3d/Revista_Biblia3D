@@ -1,0 +1,9 @@
+﻿1
+00:00:00,023 --> 00:00:03,436
+Por favor deixei a câmera
+vendo toda a imagem
+
+2
+00:00:03,460 --> 00:00:05,460
+e toque para dar foco
+

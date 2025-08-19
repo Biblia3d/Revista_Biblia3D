@@ -1,0 +1,10 @@
+﻿1
+00:00:00,001 --> 00:00:02,595
+David invaded the city
+through the underground tunnel
+
+2
+00:00:02,620 --> 00:00:06,055
+and conquered the city
+that is now called Jerusalem
+

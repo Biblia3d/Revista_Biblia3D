@@ -1,0 +1,5 @@
+﻿1
+00:00:00,007 --> 00:00:04,444
+And the image may be in low light or
+have a brightness hindering the reading
+

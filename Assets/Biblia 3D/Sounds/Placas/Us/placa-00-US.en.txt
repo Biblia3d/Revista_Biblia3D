@@ -1,0 +1,8 @@
+﻿1
+00:00:00,015 --> 00:00:02,111
+Look for an environment with good light
+
+2
+00:00:02,136 --> 00:00:04,333
+Click on the screen to focus
+

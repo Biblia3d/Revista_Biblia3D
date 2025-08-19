@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a3d31697ccfa454285661622d1e2a17, type: 3}
+  m_Name: VersoSceneChangeData
+  m_EditorClassIdentifier: 
+  sceneName: Verso
+  sceneReturn: Revista
+  backgroundLoading: {fileID: 21300000, guid: 1fe9a04c07099564093b3fc2b1117650, type: 3}
+  backgroundColor: {r: 0.8862746, g: 0.79215693, b: 0.6784314, a: 1}
+  foregroundLoadingRight: 0
+  foregroundLoading: {fileID: 0}
+  smallForegroundLoading: {fileID: 0}
+  localizedPageText: {fileID: 11400000, guid: 926bc6d44ab61ca43a03ff1bd98e69ec, type: 2}
+  localizedText: {fileID: 11400000, guid: ea733bbbdf81a654b80d4ea9fb71bbfc, type: 2}
+  centerLocalizedText: {fileID: 0}
+  localizedAudioClip: {fileID: 0}
+  subtitleScriptableObject: {fileID: 11400000, guid: 88b85947eb55afc4e9a0ddc372a37508,
+    type: 2}
+  loadingMusic: {fileID: 0}
+  davi3D: 0
+  hand: 0
+  loadSceneAsyncAdditive: 1
+  showSubtitle: 0

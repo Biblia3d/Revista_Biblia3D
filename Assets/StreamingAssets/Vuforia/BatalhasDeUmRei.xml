@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="05-06" size="1.000000 1.427500" />
+    <ImageTarget name="verso" size="1.000000 0.701754" />
+    <ImageTarget name="CapaNova" size="1.000000 2.252500" />
+    <ImageTarget name="01-02" size="1.000000 1.427500" />
+    <ImageTarget name="03-04" size="1.000000 1.427500" />
+    <ImageTarget name="07-08" size="1.000000 1.427500" />
+    <ImageTarget name="09-10" size="1.000000 1.430000" />
+    <ImageTarget name="11-12" size="1.000000 1.427500" />
+    <ImageTarget name="13-14" size="1.000000 1.427500" />
+    <ImageTarget name="15-16" size="1.000000 1.427500" />
+    <ImageTarget name="17-18" size="1.000000 1.435000" />
+    <ImageTarget name="19-20" size="1.000000 1.427500" />
+    <ImageTarget name="21-22" size="1.000000 1.415000" />
+  </Tracking>
+</QCARConfig>

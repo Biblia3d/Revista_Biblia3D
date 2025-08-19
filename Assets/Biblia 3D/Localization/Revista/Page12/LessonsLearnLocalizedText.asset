@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af65ee6b0f35f974dba93979a07edbce, type: 3}
+  m_Name: LessonsLearnLocalizedText
+  m_EditorClassIdentifier: 
+  m_LocaleItems:
+  - m_Language: -1
+    m_Language2:
+      m_Name: English
+      m_Code: en
+      m_Custom: 0
+    m_Value: "1- David obeyed his father and did his job with love.\r\n\r\n2- David
+      defeated Goliath because the stone was anointed with the power of the Holy Spirit.\r\n\r\n3-
+      David's trust and obedience\r\nmade him a winner!"
+  - m_Language: -1
+    m_Language2:
+      m_Name: Portuguese
+      m_Code: pt
+      m_Custom: 0
+    m_Value: "1- Davi obedecia ao seu pai e fazia seu trabalho com amor.\r\n\r\n2-
+      Davi derrotou Golias porque a pedra estava ungida com o poder do Esp\xEDrito
+      Santo.\r\n\r\n3- A confian\xE7a e a obedi\xEAncia de Davi\r\nfizeram dele um
+      vencedor!"

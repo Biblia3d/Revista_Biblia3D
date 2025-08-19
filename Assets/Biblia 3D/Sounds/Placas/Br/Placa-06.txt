@@ -1,0 +1,5 @@
+﻿1
+00:00:00,001 --> 00:00:04,071
+A pedido de seu pai, Davi foi
+levar o almoço aos seus irmãos
+

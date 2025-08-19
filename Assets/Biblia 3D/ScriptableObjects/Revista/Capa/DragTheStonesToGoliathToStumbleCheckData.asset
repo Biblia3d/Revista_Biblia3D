@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fbd84f10f716ab458eaf09c0be35dc5, type: 3}
+  m_Name: DragTheStonesToGoliathToStumbleCheckData
+  m_EditorClassIdentifier: 
+  checkItemScriptableObjects:
+  - {fileID: 11400000, guid: e75cc67065c683b4f962b34db9d0cecf, type: 2}
+  score: 10
+  message: {fileID: 11400000, guid: e3339363619802b41ad7dac507a719b5, type: 2}
