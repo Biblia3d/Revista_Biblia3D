@@ -5,6 +5,8 @@
     "com.simple.srt": "file:D:/Biblia 3D/Unity-Simple-SRT/Packages/com.simple.srt",
     "com.unity.2d.sprite": "1.0.0",
     "com.unity.2d.tilemap": "1.0.0",
+    "com.unity.adaptiveperformance": "5.1.1",
+    "com.unity.adaptiveperformance.google.android": "1.3.1",
     "com.unity.ads": "4.4.2",
     "com.unity.analytics": "3.6.12",
     "com.unity.collab-proxy": "2.2.0",

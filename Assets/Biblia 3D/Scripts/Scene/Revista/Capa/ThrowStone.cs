@@ -1,3 +1,4 @@
+using Biblia3D.Scene.Checklist;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -9,6 +10,9 @@ public class ThrowStone : MonoBehaviour
     public LineRenderer aimLine;            // Linha que exibe a trajetória prevista
     public Rigidbody stoneRb;               // Rigidbody da pedra para simulação de física
     public GameObject effectObject;         // Efeito visual associado à pedra
+    public GameObject golias, success;
+    public CheckItemScriptableObject checkItemScriptableObject;
+
 
     // Configurações de mira e lançamento
     public float aimSpeed = 10f;            // Velocidade de ajuste da mira
@@ -307,5 +311,47 @@ public class ThrowStone : MonoBehaviour
         {
             Sound_Manager.Instance.PlayOneShot("Toc");
         }
+        else if(collision.gameObject.name == "GoliasObject")
+        {
+            Sound_Manager.Instance.PlayOneShot("Impacto");
+            Animator goliasAnimator = collision.gameObject.GetComponent<Animator>();
+            if (goliasAnimator != null)
+                goliasAnimator.SetTrigger("Stumble");
+            golias.GetComponent<GoliasIdle>().stop = true;
+            golias.GetComponent<GoliasIdle>().wait = 0;
+            golias.GetComponent<GoliasIdle>().time = 10;
+            //GetComponent<MeshCollider>().enabled = false;
+            golias.GetComponent<GoliasIdle>().GetComponentInChildren<Animator>().SetTrigger("Stumble");
+            golias.GetComponent<GoliasIdle>().end = true;
+            golias.GetComponent<BoxCollider>().enabled = false;
+
+
+            golias.transform.position = new Vector3(golias.transform.position.x, 0.05f, golias.transform.position.z);
+
+            if (checkItemScriptableObject != null)
+            {
+                checkItemScriptableObject.Confirm();
+            }
+
+            if (success != null)
+            {
+                success.SetActive(true);
+            }
+
+            //GetComponent<MeshRenderer>().enabled = false;
+            /*if (pedra != null)
+            {
+                pedra.SetActive(true);
+                GetComponent<MeshRenderer>().enabled = true;
+                GetComponent<MeshCollider>().enabled = true;
+                gameObject.SetActive(false);
+            }*/
+            //gameObject.GetComponent<Rigidbody>().isKinematic = true;
+            CancelInvoke("ResetPosition");
+            //gameObject.GetComponent<PokeBallMove>().enabled = false;
+            Invoke("DestroyRock", 3);
+        }
+
+
     }
 }

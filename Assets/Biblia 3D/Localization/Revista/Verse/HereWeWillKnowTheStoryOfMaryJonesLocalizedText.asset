@@ -18,10 +18,10 @@ MonoBehaviour:
       m_Name: English
       m_Code: en
       m_Custom: 0
-    m_Value: Story of Mary Jones
+    m_Value: 
   - m_Language: -1
     m_Language2:
       m_Name: Portuguese
       m_Code: pt
       m_Custom: 0
-    m_Value: "A Hist\xF3ria de Mary Jones"
+    m_Value: "TECNOLOGIA 7.0 DA B\xCDBLIA 3D"

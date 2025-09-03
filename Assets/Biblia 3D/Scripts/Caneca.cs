@@ -393,7 +393,7 @@ public class Caneca : MonoBehaviour
 	}
 	void ChangeScene8()
 	{
-		SceneManager.LoadScene("Scene 8");
+		//SceneManager.LoadScene("Scene 8");
 	}
 
 	void Flash()

@@ -17,7 +17,7 @@ public class GoliasIdle : MonoBehaviour {
     // Use this for initialization
     void Start () {
         anim = gameObject.GetComponentInChildren<Animator>();
-        golias = GetComponentInChildren<GameObject>().gameObject;
+        golias = GetComponentInChildren<Transform>().gameObject;
 
     }
 
