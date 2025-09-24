@@ -1192,13 +1192,20 @@ public class Biblia3dTrackableEventHandler : DefaultTrackableEventHandler
 
         if (!found)
         {
-            if (!SceneManager.GetActiveScene().name.Contains("Card"))
             {
-                Biblia3D.Scene.Revista.RevistaSceneComponent.LoadScene(new Biblia3D.Scene.Revista.RevistaSceneRequest(), (outcome) => { });
-            }
-            else
-            {
-                SceneManager.LoadScene("Scene 0 Cards");
+                string currentSceneName = SceneManager.GetActiveScene().name;
+
+                // Verifica se a cena atual é uma das cenas especiais
+                if (currentSceneName.Contains("Card") || currentSceneName.Contains("Caneca"))
+                {
+                    // Recarrega a cena atual
+                    SceneManager.LoadScene(currentSceneName);
+                }
+                else
+                {
+                    // Comportamento padrão para as outras cenas
+                    Biblia3D.Scene.Revista.RevistaSceneComponent.LoadScene(new Biblia3D.Scene.Revista.RevistaSceneRequest(), (outcome) => { });
+                }
             }
         }
         

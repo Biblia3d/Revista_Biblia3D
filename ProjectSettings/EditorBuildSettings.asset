@@ -116,6 +116,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Biblia 3D/Scenes/Common/Shop.unity
     guid: dda6e93389c3f3346a6abeb25a13ddd9
+  - enabled: 1
+    path: Assets/Biblia 3D/Scenes/Principal/CanecaGame.unity
+    guid: 38bf7847e8450d34fab9b592029c7d62
+  - enabled: 0
+    path: Assets/Biblia 3D/Scenes/Principal/CanecaGame1.unity
+    guid: dd37feb95928a1a4796ba003af2ae794
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 199a13cfe14eed54eb8d9d7331899d72,
       type: 2}

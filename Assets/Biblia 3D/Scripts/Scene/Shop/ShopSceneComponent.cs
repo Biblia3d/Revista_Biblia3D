@@ -28,7 +28,15 @@ namespace Biblia3D.Scene.Shop
         
         public static void UnloadScene()
         {
-            SceneManager.UnloadSceneAsync(SceneName);
+            string sceneNameToUnload = "Shop"; // nome da Scene da loja
+            if (UnityEngine.SceneManagement.SceneManager.GetSceneByName(sceneNameToUnload).isLoaded)
+            {
+                UnityEngine.SceneManagement.SceneManager.UnloadSceneAsync(sceneNameToUnload);
+            }
+            else
+            {
+                Debug.LogWarning($"A cena '{sceneNameToUnload}' não está carregada e não pode ser descarregada.");
+            }
         }
 
         public void CloseScene()

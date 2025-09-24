@@ -54,7 +54,7 @@ public class Aim : MonoBehaviour {
 
         if (pag.GetComponent<Story_Manager> ().atualTrack == "04") {
 			transform.localPosition = new Vector3 (davi03.transform.localPosition.x * 0.875f, davi03.transform.localPosition.y + y, alvo.transform.localPosition.z - 0.08f);
-		} else if (pag.GetComponent<Story_Manager> ().atualTrack == "10"||pag.GetComponent<Story_Manager> ().atualTrack == "VersoCarta") {
+		} else if ((pag.GetComponent<Story_Manager> ().atualTrack == "10"|| pag.GetComponent<Story_Manager>().atualTrack == "Caneca") ||pag.GetComponent<Story_Manager> ().atualTrack == "VersoCarta") {
 			transform.localPosition = new Vector3 (davi10.transform.localPosition.x * 0.875f, davi10.transform.localPosition.y + y, z);//golias.transform.localPosition.z-0.08f);
 
 			if ((aim != null && aim.transform.localPosition.x <= golias.transform.localPosition.x + 0.1f && aim.transform.localPosition.x >= golias.transform.localPosition.x - 0.1f)) {//&&golias.GetComponent<Golias_Move>().waitYourTime)) {

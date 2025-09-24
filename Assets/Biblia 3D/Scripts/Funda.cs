@@ -15,7 +15,7 @@ public class Funda : MonoBehaviour
 
 
     public void Shoot(){
-		if (pag.GetComponent<Story_Manager> ().atualTrack == "04"||pag.GetComponent<Story_Manager> ().atualTrack == "10"||pag.GetComponent<Story_Manager> ().atualTrack == "VersoCarta") {
+		if (pag.GetComponent<Story_Manager> ().atualTrack == "04"||pag.GetComponent<Story_Manager> ().atualTrack == "10" || pag.GetComponent<Story_Manager>().atualTrack == "Caneca" || pag.GetComponent<Story_Manager> ().atualTrack == "VersoCarta") {
             //if (PlayerPrefs.GetInt ("Stone") > 0) {
             if (davi.GetComponent<Davi_InGame>().isActiveAndEnabled)
                 print("entrou no if");

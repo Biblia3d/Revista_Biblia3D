@@ -7,6 +7,9 @@ public class Stone : MonoBehaviour
     public float ZForce;
     public float YForce;
 
+    public float alturaMinima = 0.5f; // A altura do "chão invisível"
+    private bool isSliding = false;   // Controla se a pedra já atingiu o chão
+
     private Rigidbody rb;
     private GameObject aim, davi, golias, story;
 
@@ -20,7 +23,8 @@ public class Stone : MonoBehaviour
         story = GameObject.FindWithTag("Story_Manager");
 
         // Posiciona o objeto conforme o valor de "atualTrack" no Story_Manager
-        if (story.GetComponent<Story_Manager>().atualTrack == "10")
+        
+        if (story.GetComponent<Story_Manager>().atualTrack == "10"|| story.GetComponent<Story_Manager>().atualTrack == "Caneca")
         {
             transform.localPosition = new Vector3(
                 aim.transform.localPosition.x,
@@ -43,16 +47,33 @@ public class Stone : MonoBehaviour
         ApplyForce();
     }
 
-    // A cada frame, garante que o objeto mantenha seu pai original.
     void Update()
     {
-        transform.SetParent(this.transform.parent);
+        // Só executa a verificação se a pedra ainda não estiver deslizando
+        if (!isSliding && transform.position.y < alturaMinima)
+        {
+            // 1. Ativa o modo "deslize" para não entrar aqui de novo
+            isSliding = true;
+
+            // 2. Garante que a pedra fique exatamente na altura mínima
+            transform.position = new Vector3(transform.position.x, alturaMinima, transform.position.z);
+
+            // 3. Zera a velocidade vertical para parar a queda imediatamente
+            rb.velocity = new Vector3(rb.velocity.x, 0, rb.velocity.z);
+
+            // 4. Desliga a gravidade específica para este objeto
+            rb.useGravity = false;
+
+            // 5. Congela o movimento no eixo Y, mas libera X e Z
+            // (Opcional, mas garante que nenhuma outra força moverá a pedra para cima ou para baixo)
+            rb.constraints = RigidbodyConstraints.FreezePositionY;
+        }
     }
 
     // Aplica a força inicial ao objeto, impulsionando-o nos eixos Y e Z.
     void ApplyForce()
     {
-        rb.AddForce(new Vector3(0, YForce, ZForce));
+        rb.AddRelativeForce(new Vector3(0, YForce, ZForce));
     }
 
     // Trata as colisões do objeto com os demais elementos da cena.

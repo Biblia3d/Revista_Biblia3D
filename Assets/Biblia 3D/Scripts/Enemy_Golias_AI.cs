@@ -102,78 +102,81 @@ public class Enemy_Golias_AI : MonoBehaviour
 
     void Move(string side)
     {
-        if (start)
+        if (!dead)
         {
-            int i = Random.Range(0, 20); // Aleatoriedade para iniciar um ataque
-            if (i == 5)
+            if (start)
             {
-                attack = true;
-                Attack();
-                return;
+                int i = Random.Range(0, 20); // Aleatoriedade para iniciar um ataque
+                if (i == 5)
+                {
+                    attack = true;
+                    Attack();
+                    return;
+                }
             }
+
+            // Lógica de movimentação e atualização de animações
+            switch (side)
+            {
+                case "forward":
+                    if (transform.localPosition.z <= 0.2f)
+                    {
+                        transform.localPosition = new Vector3(transform.localPosition.x, transform.localPosition.y, 0.2f);
+                        ChooseNextTarget();
+                    }
+                    else
+                    {
+                        transform.localPosition += new Vector3(0f, 0f, speed * Time.deltaTime * -1);
+                        anim.SetTrigger("Fw"); // Atualiza animação para "forward"
+                        ResetOtherTriggers("Fw");
+                    }
+                    break;
+
+                case "backward":
+                    if (transform.localPosition.z >= zLimits)
+                    {
+                        transform.localPosition = new Vector3(transform.localPosition.x, transform.localPosition.y, zLimits);
+                        ChooseNextTarget();
+                    }
+                    else
+                    {
+                        transform.localPosition += new Vector3(0f, 0f, speed * Time.deltaTime);
+                        anim.SetTrigger("Bw"); // Atualiza animação para "backward"
+                        ResetOtherTriggers("Bw");
+                    }
+                    break;
+
+                case "right":
+                    if (transform.localPosition.x <= xLimitsMin)
+                    {
+                        transform.localPosition = new Vector3(xLimitsMin, transform.localPosition.y, transform.localPosition.z);
+                        ChooseNextTarget();
+                    }
+                    else
+                    {
+                        transform.localPosition += new Vector3(-speed * Time.deltaTime, 0f, 0f);
+                        anim.SetTrigger("R"); // Atualiza animação para "right"
+                        ResetOtherTriggers("R");
+                    }
+                    break;
+
+                case "left":
+                    if (transform.localPosition.x >= xLimitsMax)
+                    {
+                        transform.localPosition = new Vector3(xLimitsMax, transform.localPosition.y, transform.localPosition.z);
+                        ChooseNextTarget();
+                    }
+                    else
+                    {
+                        transform.localPosition += new Vector3(speed * Time.deltaTime, 0f, 0f);
+                        anim.SetTrigger("L"); // Atualiza animação para "left"
+                        ResetOtherTriggers("L");
+                    }
+                    break;
+            }
+
+            print("MOVE side = " + side + " ***************");
         }
-
-        // Lógica de movimentação e atualização de animações
-        switch (side)
-        {
-            case "forward":
-                if (transform.localPosition.z <= 0.2f)
-                {
-                    transform.localPosition = new Vector3(transform.localPosition.x, transform.localPosition.y, 0.2f);
-                    ChooseNextTarget();
-                }
-                else
-                {
-                    transform.localPosition += new Vector3(0f, 0f, speed * Time.deltaTime * -1);
-                    anim.SetTrigger("Fw"); // Atualiza animação para "forward"
-                    ResetOtherTriggers("Fw");
-                }
-                break;
-
-            case "backward":
-                if (transform.localPosition.z >= zLimits)
-                {
-                    transform.localPosition = new Vector3(transform.localPosition.x, transform.localPosition.y, zLimits);
-                    ChooseNextTarget();
-                }
-                else
-                {
-                    transform.localPosition += new Vector3(0f, 0f, speed * Time.deltaTime);
-                    anim.SetTrigger("Bw"); // Atualiza animação para "backward"
-                    ResetOtherTriggers("Bw");
-                }
-                break;
-
-            case "right":
-                if (transform.localPosition.x <= xLimitsMin)
-                {
-                    transform.localPosition = new Vector3(xLimitsMin, transform.localPosition.y, transform.localPosition.z);
-                    ChooseNextTarget();
-                }
-                else
-                {
-                    transform.localPosition += new Vector3(-speed * Time.deltaTime, 0f, 0f);
-                    anim.SetTrigger("R"); // Atualiza animação para "right"
-                    ResetOtherTriggers("R");
-                }
-                break;
-
-            case "left":
-                if (transform.localPosition.x >= xLimitsMax)
-                {
-                    transform.localPosition = new Vector3(xLimitsMax, transform.localPosition.y, transform.localPosition.z);
-                    ChooseNextTarget();
-                }
-                else
-                {
-                    transform.localPosition += new Vector3(speed * Time.deltaTime, 0f, 0f);
-                    anim.SetTrigger("L"); // Atualiza animação para "left"
-                    ResetOtherTriggers("L");
-                }
-                break;
-        }
-
-        print("MOVE side = " + side + " ***************");
     }
 
     void ResetOtherTriggers(string activeTrigger)
@@ -241,7 +244,7 @@ public class Enemy_Golias_AI : MonoBehaviour
         if (colisor.tag == "DaviStone")
         {
             hit++;
-            if (scene.name == "Scene 6")
+            if (scene.name == "Scene 6"|| scene.name == "CanecaGame")
             {
                 if (hit <= 9) //Aqui está  a condição de vida do golias
                 {

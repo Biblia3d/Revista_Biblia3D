@@ -35,7 +35,8 @@ public class Davi_Controller : MonoBehaviour {
 	void Update () {
 		//Quando Ativo Faz Algo
 		if (scene.name != "Scene 8") {
-			if (tracker.isTracking) {
+
+			if (tracker!= null && tracker.isTracking) {
                
                     Touch();
                 
@@ -43,6 +44,11 @@ public class Davi_Controller : MonoBehaviour {
 					transform.localPosition = new Vector3 (transform.localPosition.x, transform.localPosition.y, transform.localPosition.z + speed * Time.deltaTime);
 				}
 			}
+			else
+			{
+				Debug.Log("Tracker is null ou !isTracking");
+			}
+
 			if (this.gameObject.transform.parent.name == "Verso")
 				DaviCanvas.SetActive (tracker.isTracking);
 		}

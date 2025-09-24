@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.EventSystems;
+using UnityEngine.SceneManagement;
 
 public class ArrowsDaviGame : MonoBehaviour, IPointerDownHandler, IPointerUpHandler {
 
@@ -15,19 +16,30 @@ public class ArrowsDaviGame : MonoBehaviour, IPointerDownHandler, IPointerUpHand
 	public Davi_InGame davi0;
 
 	public Biblia3dTrackableEventHandler pag;
+    //private Biblia3dTrackableEventHandler[] pags;
 
-	public GameObject davi;
+    public GameObject davi;
 
 	void Start()
 	{
 		me = GetComponent<Button> ();
+		//pags = FindObjectsByType<Biblia3dTrackableEventHandler>(FindObjectsSortMode.None);
+		
 	}
 
 	void FixedUpdate () 
 	{
 		if (move)
-        if (pag.isTracking)
-			davi.GetComponent<Davi_InGame>().Move (side);
+
+			if (!SceneManager.GetSceneByName("CanecaGame").isLoaded)
+			{
+				if (pag.isTracking)
+					davi.GetComponent<Davi_InGame>().Move(side);
+			}
+			else
+			{
+                davi.GetComponent<Davi_InGame>().Move(side);
+            }
 	}
 
 	public void OnPointerDown(PointerEventData eventData)
